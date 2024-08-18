@@ -1,0 +1,6 @@
+GitHub desktop 
+
+What is a branch? 
+
+Repo -> store your source code, maintain history and keep track of branches 
+
