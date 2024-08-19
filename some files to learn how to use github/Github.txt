@@ -1,0 +1,33 @@
+GitHub desktop 
+
+What is a branch? How do they work? 
+It is a place where you experiment and can do mistakes so that if you want to revert them you go back to the root. 
+You have to change the branch and then commit stuff. 
+
+
+
+Ammend commit -> to change the description or something else of a previous commit 
+
+Revert commit -> to remove one of the previous commits 
+
+
+Fork -> when you take someone's else repo and create a copy for yourself. E.g I forked a copy of the Juliia Quant Econ repository. 
+
+Repo -> store your source code, maintain history and keep track of branches 
+
+Push -> from the laptop (local file system) to the cloud (GitHub) 
+
+Pull -> from the cloud to the laptop 
+
+
+Allows you 1.  to keep a commit history and reverse mistake, 2. collaborate with more people, and 3. do isolate development in branches 
+
+
+
+####### Questions #######
+1. currently the Quantecon Julia repository appears on GitHub desktop but when I go online is not in my repos. What is the problem? 
+
+The mistake was that I had not pushed it into GitHub 
+
+2. I would like to have one folder that is on my documents where I keep all the GitHub repositories. How to do it? 
+
