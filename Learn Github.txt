@@ -1,10 +1,23 @@
 GitHub desktop 
 
-What is a branch? 
+What is a branch? How do they work? 
+It is a place where you experiment and can do mistakes so that if you want to revert them you go back to the root 
+
+
+
+Ammend commit -> to change the description or something else of a previous commit 
+
+Revert commit -> to remove one of the previous commits 
+
+
+
 
 Repo -> store your source code, maintain history and keep track of branches 
 
 Push -> from the laptop (local file system) to the cloud (GitHub) 
 
 Pull -> from the cloud to the laptop 
+
+
+Allows you 1.  to keep a commit history and reverse mistake, 2. collaborate with more people, and 3. do isolate development in branches 
 
