@@ -1,4 +1,0 @@
-The mistake I did is that when there is the first screening stage I did not use the ceiling/floor price for the second stage. 
-
-
-check risk averse in auctions 
