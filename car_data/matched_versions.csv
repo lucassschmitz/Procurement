@@ -1,0 +1,562 @@
+MARCA,TIPO PRODUCTO,Model Name,Engine,Drive,Transmission,Year,Model Name Simplified,Marca Simplified,Model URL,Engine Simplified,Drive Simplified,Transmission Simplified,Version URL
+CHANGAN,CAMIONETA,HUNTER COMFORT,2.0T,4X2,MT,2024,hunter comfort,changan,https://www.autocosmos.cl/catalogo/vigente/changan/hunter,20t,4x2,mt,https://www.autocosmos.cl/catalogo/2024/changan/hunter/comfort/176948
+CHANGAN,CAMIONETA,HUNTER COMFORT,2.0T,4X4,MT,2024,hunter comfort,changan,https://www.autocosmos.cl/catalogo/vigente/changan/hunter,20t,4x4,mt,https://www.autocosmos.cl/catalogo/2024/changan/hunter/comfort-4x4/176950
+CHANGAN,CAMIONETA,HUNTER ELITE SPORT,2.0T,4X4,MT,2024,hunter elite sport,changan,https://www.autocosmos.cl/catalogo/vigente/changan/hunter,20t,4x4,mt,https://www.autocosmos.cl/catalogo/2024/changan/hunter/elite-sport-4x4/176952
+CHANGAN,CAMIONETA,HUNTER LUXURY,2.0T,4X2,MT,2024,hunter luxury,changan,https://www.autocosmos.cl/catalogo/vigente/changan/hunter,20t,4x2,mt,https://www.autocosmos.cl/catalogo/2024/changan/hunter/luxury/176949
+CHANGAN,CAMIONETA,MD 301 AC ESP,,,MT,2024,md 301 ac esp,changan,,nan,nan,mt,
+CHANGAN,CAMIONETA,MD201,,,MT,2024,md201,changan,https://www.autocosmos.cl/catalogo/vigente/changan/md201-cargo-box,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/changan/md201-cargo-box/12l/176969
+CHANGAN,CAMIONETA,MD201 XL,1.5L,,MT,2024,md201 xl,changan,,15l,nan,mt,
+CHANGAN,CAMIONETA,MS 201,,,MT,2024,ms 201,changan,,nan,nan,mt,
+CHANGAN,CAMIONETA,MS 301 PLUS AC ESP,,,,2024,ms 301 plus ac esp,changan,,nan,nan,nan,
+CHEVROLET,CAMIONETA,COLORADO HIGH COUNTRY,,4X4,AT,2024,colorado high country,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/colorado,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/colorado/28l-high-country-awd-aut/177006
+CHEVROLET,CAMIONETA,COLORADO LS,,4X2,MT,2024,colorado ls,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/colorado,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2024/chevrolet/colorado/28l-ltz-awd-aut/177009
+CHEVROLET,CAMIONETA,COLORADO LT,,4X4,AT,2024,colorado lt,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/colorado,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/colorado/28l-ltz-awd-aut/177009
+CHEVROLET,CAMIONETA,COLORADO LT,,4X4,MT,2024,colorado lt,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/colorado,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/chevrolet/colorado/28l-ltz-awd-aut/177009
+CHEVROLET,CAMIONETA,COLORADO LTZ,,4X4,AT,2024,colorado ltz,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/colorado,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/colorado/28l-ltz-awd-aut/177009
+CHEVROLET,CAMIONETA,COLORADO Z71,,4X4,AT,2024,colorado z71,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/colorado-z71,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/colorado-z71/28l-aut-awd/177022
+CHEVROLET,CAMIONETA,MONTANA T LT,1.2,,MT,2024,montana t lt,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/montana,12,nan,mt,https://www.autocosmos.cl/catalogo/2024/chevrolet/montana/lt-12/177046
+CHEVROLET,CAMIONETA,MONTANA T LTZ,1.2,,AT,2024,montana t ltz,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/montana,12,nan,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/montana/lt-12/177046
+CHEVROLET,CAMIONETA,MONTANA T PREMIER,1.2,,AT,2024,montana t premier,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/montana,12,nan,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/montana/premier-12-aut-s/178520
+CHEVROLET,CAMIONETA,MONTANA T PREMIER,1.2,,MT,2024,montana t premier,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/montana,12,nan,mt,https://www.autocosmos.cl/catalogo/2024/chevrolet/montana/premier-12-aut-s/178520
+CHEVROLET,CAMIONETA,MONTANA T RS,1.2,,AT,2024,montana t rs,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/montana,12,nan,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/montana/rs-12-aut/177047
+CHEVROLET,CAMIONETA,SILVERADO HC TD,3.0,4X4,AT,2024,silverado hc td,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/silverado,30,4x4,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/silverado/53l-lt-trailboss-4x4/177023
+CHEVROLET,CAMIONETA,SILVERADO LT TRAIL BOSS Z71 V8,5.3L,4X4,AT,2024,silverado lt trail boss z71 v8,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/silverado,53l,4x4,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/silverado/53l-lt-trailboss-4x4/177023
+CHEVROLET,CAMIONETA,SILVERADO ZR2 V8,6.2L,4X4,AT,2024,silverado zr2 v8,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/silverado,62l,4x4,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/silverado/62l-zr2-4x4/177024
+DFSK,CAMIONETA,D1 CONFORT,,4X2,MT,2024,d1 confort,dfsk,https://www.autocosmos.cl/catalogo/vigente/dfsk/d1,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2024/dfsk/d1/comfort/177103
+DFSK,CAMIONETA,D1 LUXURY,,4X4,AT,2024,d1 luxury,dfsk,https://www.autocosmos.cl/catalogo/vigente/dfsk/d1,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/dfsk/d1/luxury/177104
+DFSK,CAMIONETA,D1 LUXURY,,4X4,MT,2024,d1 luxury,dfsk,https://www.autocosmos.cl/catalogo/vigente/dfsk/d1,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/dfsk/d1/luxury/177104
+DONGFENG,CAMIONETA,DF 212 CS,,,MT,2024,df 212 cs,dongfeng,,nan,nan,mt,
+FORD,CAMIONETA,MAVERICK LARIAT FX4 HEV,,,AT,2024,maverick lariat fx4 hev,ford,https://www.autocosmos.cl/catalogo/vigente/ford/maverick,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/ford/maverick/20l-lariat-4x4/177184
+FORD,CAMIONETA,MAVERICK XLT,2.0,4X2,AT,2024,maverick xlt,ford,https://www.autocosmos.cl/catalogo/vigente/ford/maverick,20,4x2,at,https://www.autocosmos.cl/catalogo/2024/ford/maverick/20l-xlt/177183
+FORD,CAMIONETA,RANGER DSL LIMITED,3.0,4X4,AT,2024,ranger dsl limited,ford,https://www.autocosmos.cl/catalogo/vigente/ford/ranger,30,4x4,at,https://www.autocosmos.cl/catalogo/2024/ford/ranger/30l-limited-4x4-aut/177200
+FORD,CAMIONETA,RANGER DSL XL,2.0,4X2,MT,2024,ranger dsl xl,ford,https://www.autocosmos.cl/catalogo/vigente/ford/ranger,20,4x2,mt,https://www.autocosmos.cl/catalogo/2024/ford/ranger/20l-xl-4x2/177193
+FORD,CAMIONETA,RANGER DSL XL,2.0,4X4,MT,2024,ranger dsl xl,ford,https://www.autocosmos.cl/catalogo/vigente/ford/ranger,20,4x4,mt,https://www.autocosmos.cl/catalogo/2024/ford/ranger/20l-xl-4x4/177194
+FORD,CAMIONETA,RANGER DSL XLS,2.0,4X2,MT,2024,ranger dsl xls,ford,https://www.autocosmos.cl/catalogo/vigente/ford/ranger,20,4x2,mt,https://www.autocosmos.cl/catalogo/2024/ford/ranger/20l-xls-4x2/177195
+FORD,CAMIONETA,RANGER DSL XLS,2.0,4X4,MT,2024,ranger dsl xls,ford,https://www.autocosmos.cl/catalogo/vigente/ford/ranger,20,4x4,mt,https://www.autocosmos.cl/catalogo/2024/ford/ranger/20l-xls-4x4/177196
+FORD,CAMIONETA,RANGER DSL XLT,2.0,4X2,AT,2024,ranger dsl xlt,ford,https://www.autocosmos.cl/catalogo/vigente/ford/ranger,20,4x2,at,https://www.autocosmos.cl/catalogo/2024/ford/ranger/20l-xl-4x2/177193
+FORD,CAMIONETA,RANGER DSL XLT,2.0,4X4,AT,2024,ranger dsl xlt,ford,https://www.autocosmos.cl/catalogo/vigente/ford/ranger,20,4x4,at,https://www.autocosmos.cl/catalogo/2024/ford/ranger/20l-xlt-4x4/177198
+FORD,CAMIONETA,RANGER DSL XLT,2.0,4X4,MT,2024,ranger dsl xlt,ford,https://www.autocosmos.cl/catalogo/vigente/ford/ranger,20,4x4,mt,https://www.autocosmos.cl/catalogo/2024/ford/ranger/20l-xlt-4x4/177198
+FOTON,CAMIONETA,G7 LITE,,4X4,,2024,g7 lite,foton,https://www.autocosmos.cl/catalogo/vigente/foton/g7,nan,4x4,nan,https://www.autocosmos.cl/catalogo/2024/foton/g7/20l-lite-4x4/177213
+FOTON,CAMIONETA,G7 ULTIMATE,,4X2,,2024,g7 ultimate,foton,https://www.autocosmos.cl/catalogo/vigente/foton/g7,nan,4x2,nan,https://www.autocosmos.cl/catalogo/2024/foton/g7/20l-ultimate-4x2/177216
+FOTON,CAMIONETA,G7 ULTIMATE,,4X4,,2024,g7 ultimate,foton,https://www.autocosmos.cl/catalogo/vigente/foton/g7,nan,4x4,nan,https://www.autocosmos.cl/catalogo/2024/foton/g7/20l-ultimate-4x4/177217
+GREAT WALL,CAMIONETA,POER DELUXE,,4X2,,2024,poer deluxe,great wall,https://www.autocosmos.cl/catalogo/vigente/great-wall/poer,nan,4x2,nan,https://www.autocosmos.cl/catalogo/2024/great-wall/poer/deluxe-4x2/177249
+GREAT WALL,CAMIONETA,POER ELITE,,4X2,,2024,poer elite,great wall,https://www.autocosmos.cl/catalogo/vigente/great-wall/poer,nan,4x2,nan,https://www.autocosmos.cl/catalogo/2024/great-wall/poer/elite-4x2/177251
+GREAT WALL,CAMIONETA,POER ELITE PANT,,4X2,,2024,poer elite pant,great wall,https://www.autocosmos.cl/catalogo/vigente/great-wall/poer,nan,4x2,nan,https://www.autocosmos.cl/catalogo/2024/great-wall/poer/elite-4x2-pant/178403
+GREAT WALL,CAMIONETA,POER DELUXE,,4X4,,2024,poer deluxe,great wall,https://www.autocosmos.cl/catalogo/vigente/great-wall/poer,nan,4x4,nan,https://www.autocosmos.cl/catalogo/2024/great-wall/poer/deluxe-4x4/177250
+GREAT WALL,CAMIONETA,POER ELITE,,4X4,,2024,poer elite,great wall,https://www.autocosmos.cl/catalogo/vigente/great-wall/poer,nan,4x4,nan,https://www.autocosmos.cl/catalogo/2024/great-wall/poer/elite-4x4/177252
+GREAT WALL,CAMIONETA,POER ELITE PANT,,4X4,,2024,poer elite pant,great wall,https://www.autocosmos.cl/catalogo/vigente/great-wall/poer,nan,4x4,nan,https://www.autocosmos.cl/catalogo/2024/great-wall/poer/elite-4x4-pant/178404
+GREAT WALL,CAMIONETA,POER PLUS ELITE,,4X2,,2024,poer plus elite,great wall,https://www.autocosmos.cl/catalogo/vigente/great-wall/poer,nan,4x2,nan,https://www.autocosmos.cl/catalogo/2024/great-wall/poer/elite-4x2/177251
+GREAT WALL,CAMIONETA,POER PLUS DELUXE,,4X4,,2024,poer plus deluxe,great wall,https://www.autocosmos.cl/catalogo/vigente/great-wall/poer,nan,4x4,nan,https://www.autocosmos.cl/catalogo/2024/great-wall/poer/deluxe-4x4/177250
+GREAT WALL,CAMIONETA,POER PLUS ELITE,,4X4,,2024,poer plus elite,great wall,https://www.autocosmos.cl/catalogo/vigente/great-wall/poer,nan,4x4,nan,https://www.autocosmos.cl/catalogo/2024/great-wall/poer/elite-4x4/177252
+GREAT WALL,CAMIONETA,WINGLE 7 ELITE,,4X2,,2024,wingle 7 elite,great wall,,nan,4x2,nan,
+GREAT WALL,CAMIONETA,WINGLE 7 ELITE PLUS,,4X4,,2024,wingle 7 elite plus,great wall,,nan,4x4,nan,
+JAC,CAMIONETA,T8 CE COMFORT,2.0T,4X2,MT,2024,t8 ce comfort,jac,https://www.autocosmos.cl/catalogo/vigente/jac/t8,20t,4x2,mt,https://www.autocosmos.cl/catalogo/2024/jac/t8/20l-comfort-4x2/177371
+JAC,CAMIONETA,T8 CE COMFORT,2.0T,4X4,MT,2024,t8 ce comfort,jac,https://www.autocosmos.cl/catalogo/vigente/jac/t8,20t,4x4,mt,https://www.autocosmos.cl/catalogo/2024/jac/t8/20l-advance-4x4/177374
+JAC,CAMIONETA,T8 PRO ADVANCE,,4X4,MT,2024,t8 pro advance,jac,https://www.autocosmos.cl/catalogo/vigente/jac/t8,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/jac/t8/20l-advance-4x4/177374
+JAC,CAMIONETA,T8 PRO LUXURY,,4X2,MT,2024,t8 pro luxury,jac,https://www.autocosmos.cl/catalogo/vigente/jac/t8,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2024/jac/t8/20l-comfort-4x2/177371
+JAC,CAMIONETA,T8 PRO LUXURY,,4X4,MT,2024,t8 pro luxury,jac,https://www.autocosmos.cl/catalogo/vigente/jac/t8,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/jac/t8/20l-advance-4x4/177374
+JAC,CAMIONETA,T8 XE ADVANCE,2.0T,4X2,MT,2024,t8 xe advance,jac,https://www.autocosmos.cl/catalogo/vigente/jac/t8,20t,4x2,mt,https://www.autocosmos.cl/catalogo/2024/jac/t8/20l-advance-4x2/177373
+JAC,CAMIONETA,T8 XE ADVANCE,2.0T,4X4,MT,2024,t8 xe advance,jac,https://www.autocosmos.cl/catalogo/vigente/jac/t8,20t,4x4,mt,https://www.autocosmos.cl/catalogo/2024/jac/t8/20l-advance-4x4/177374
+JMC,CAMIONETA,GRAND AVENUE,,4X2,AT,2024,grand avenue,jmc,https://www.autocosmos.cl/catalogo/vigente/jmc/grand-avenue,nan,4x2,at,https://www.autocosmos.cl/catalogo/2024/jmc/grand-avenue/23l-4x2/178305
+JMC,CAMIONETA,GRAND AVENUE,,4X2,MT,2024,grand avenue,jmc,https://www.autocosmos.cl/catalogo/vigente/jmc/grand-avenue,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2024/jmc/grand-avenue/23l-4x2/178305
+JMC,CAMIONETA,GRAND AVENUE,,4X4,AT,2024,grand avenue,jmc,https://www.autocosmos.cl/catalogo/vigente/jmc/grand-avenue,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/jmc/grand-avenue/23l-4x4/178306
+JMC,CAMIONETA,GRAND AVENUE,,4X4,MT,2024,grand avenue,jmc,https://www.autocosmos.cl/catalogo/vigente/jmc/grand-avenue,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/jmc/grand-avenue/23l-4x4/178306
+JMC,CAMIONETA,VIGUS EV,,,AT,2024,vigus ev,jmc,https://www.autocosmos.cl/catalogo/vigente/jmc/vigus-ev,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/jmc/vigus-ev/vigus-ev/177431
+JMC,CAMIONETA,VIGUS NEW PLUS,,4X2,MT,2024,vigus new plus,jmc,https://www.autocosmos.cl/catalogo/vigente/jmc/vigus-plus,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2024/jmc/vigus-plus/24l-4x2/177433
+JMC,CAMIONETA,VIGUS NEW PLUS,,4X4,MT,2024,vigus new plus,jmc,https://www.autocosmos.cl/catalogo/vigente/jmc/vigus-plus,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/jmc/vigus-plus/24l-4x4/177434
+JMC,CAMIONETA,VIGUS NEW WORK,,4X2,MT,2024,vigus new work,jmc,https://www.autocosmos.cl/catalogo/vigente/jmc/vigus-work,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2024/jmc/vigus-work/25l-4x2/177429
+JMC,CAMIONETA,VIGUS NEW WORK,,4X4,MT,2024,vigus new work,jmc,https://www.autocosmos.cl/catalogo/vigente/jmc/vigus-work,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/jmc/vigus-work/25l-4x4/177430
+JMC,CAMIONETA,VIGUS PRO,,4X2,AT,2024,vigus pro,jmc,https://www.autocosmos.cl/catalogo/vigente/jmc/vigus-pro,nan,4x2,at,https://www.autocosmos.cl/catalogo/2024/jmc/vigus-pro/20l-4x2-aut/177435
+JMC,CAMIONETA,VIGUS PRO,,4X4,AT,2024,vigus pro,jmc,https://www.autocosmos.cl/catalogo/vigente/jmc/vigus-pro,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/jmc/vigus-pro/20l-4x4-aut/177436
+KARRY,CAMIONETA,Q52 CD,1.6L,,MT,2024,q52 cd,karry,https://www.autocosmos.cl/catalogo/vigente/karry/q52,16l,nan,mt,https://www.autocosmos.cl/catalogo/2024/karry/q52/16l/177448
+KIA,CAMIONETA,FRONTIER C/C LX AV AB,2.5L,,MT,2024,frontier cc lx av ab,kia,https://www.autocosmos.cl/catalogo/vigente/kia/frontier,25l,nan,mt,https://www.autocosmos.cl/catalogo/2024/kia/frontier/25l-deluxe/177492
+KIA,CAMIONETA,FRONTIER C/C LX AV,2.5L,,MT,2024,frontier cc lx av,kia,https://www.autocosmos.cl/catalogo/vigente/kia/frontier,25l,nan,mt,https://www.autocosmos.cl/catalogo/2024/kia/frontier/25l-deluxe/177492
+KIA,CAMIONETA,FRONTIER D/C LX AV AB,2.5L,,MT,2024,frontier dc lx av ab,kia,https://www.autocosmos.cl/catalogo/vigente/kia/frontier,25l,nan,mt,https://www.autocosmos.cl/catalogo/2024/kia/frontier/25l-deluxe/177492
+KIA,CAMIONETA,FRONTIER P/UP LX AV AB,2.5L,,MT,2024,frontier pup lx av ab,kia,https://www.autocosmos.cl/catalogo/vigente/kia/frontier,25l,nan,mt,https://www.autocosmos.cl/catalogo/2024/kia/frontier/25l-deluxe/177492
+MAXUS,CAMIONETA,T60 ANCAP E6,,4X4,MT,2024,t60 ancap e6,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/t60,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2025/maxus/t60/28l-ancap-4x4/178572
+MAXUS,CAMIONETA,T60 DX,,4X2,MT,2024,t60 dx,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/t60,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2025/maxus/t60/24l-dx-4x2/178571
+MAXUS,CAMIONETA,T60 DX E6,,4X2,MT,2024,t60 dx e6,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/t60,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2025/maxus/t60/24l-dx-4x2/178571
+MAXUS,CAMIONETA,T60 DX E6,,4X4,MT,2024,t60 dx e6,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/t60,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2025/maxus/t60/28l-dx-4x4/178567
+MAXUS,CAMIONETA,T60 E6 GL,,4X2,AT,2024,t60 e6 gl,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/t60,nan,4x2,at,https://www.autocosmos.cl/catalogo/2025/maxus/t60/28l-gl-4x2/178569
+MAXUS,CAMIONETA,T60 E6 GL,,4X2,MT,2024,t60 e6 gl,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/t60,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2025/maxus/t60/28l-gl-4x2/178569
+MAXUS,CAMIONETA,T60 E6 GL,,4X4,MT,2024,t60 e6 gl,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/t60,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2025/maxus/t60/28l-gl-4x4/178573
+MAXUS,CAMIONETA,T60 E6 GLX,,4X4,AT,2024,t60 e6 glx,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/t60,nan,4x4,at,https://www.autocosmos.cl/catalogo/2025/maxus/t60/28l-gl-4x4/178573
+MAXUS,CAMIONETA,T60 SC DX E6,,4X2,MT,2024,t60 sc dx e6,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/t60,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2025/maxus/t60/24l-dx-4x2/178571
+MAXUS,CAMIONETA,T60 SC DX E6,,4X4,MT,2024,t60 sc dx e6,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/t60,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2025/maxus/t60/28l-dx-4x4/178567
+MAXUS,CAMIONETA,T90 E6,,4X4,AT,2024,t90 e6,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/t90,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/maxus/t90/20l-4x4-aut/177582
+MAXUS,CAMIONETA,T90 E6,,4X4,MT,2024,t90 e6,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/t90,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/maxus/t90/20l-4x4-aut/177582
+MAXUS,CAMIONETA,T90 EV,,4X2,AT,2024,t90 ev,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/t90-ev,nan,4x2,at,https://www.autocosmos.cl/catalogo/2024/maxus/t90-ev/4x2/177587
+MAZDA,CAMIONETA,BT-50 CORE,,4X4,AT,2024,bt50 core,mazda,https://www.autocosmos.cl/catalogo/vigente/mazda/bt-50,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/mazda/bt-50/30l-4x4-core/178367
+MAZDA,CAMIONETA,BT-50 CORE,,4X4,MT,2024,bt50 core,mazda,https://www.autocosmos.cl/catalogo/vigente/mazda/bt-50,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/mazda/bt-50/30l-4x4-core/178367
+MAZDA,CAMIONETA,BT-50 HIGH,,4X4,AT,2024,bt50 high,mazda,https://www.autocosmos.cl/catalogo/vigente/mazda/bt-50,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/mazda/bt-50/30l-4x4-high-aut/177645
+MAZDA,CAMIONETA,BT-50 HIGH PLUS,,4X4,AT,2024,bt50 high plus,mazda,https://www.autocosmos.cl/catalogo/vigente/mazda/bt-50,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/mazda/bt-50/30l-4x4-high-plus-aut/177646
+MITSUBISHI,CAMIONETA,L200 D/C TD DAKAR CRS,,4X4,MT,2024,l200 dc td dakar crs,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/l-200,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/mitsubishi/l-200/24l-katana-crt-4x4/177755
+MITSUBISHI,CAMIONETA,L200 D/C TD KATANA CR,,4X2,MT,2024,l200 dc td katana cr,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/l-200,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2024/mitsubishi/l-200/24l-katana-cr-4x2/177753
+MITSUBISHI,CAMIONETA,L200 D/C TD KATANA CRT,,4X4,MT,2024,l200 dc td katana crt,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/l-200,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/mitsubishi/l-200/24l-katana-crt-4x4/177755
+MITSUBISHI,CAMIONETA,L200 D/C TD WORK CR,,4X2,MT,2024,l200 dc td work cr,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/l-200,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2024/mitsubishi/l-200/24l-work-cr-4x2/177754
+NISSAN,CAMIONETA,NAVARA DC P4X,,,,2024,navara dc p4x,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/navara,nan,nan,nan,https://www.autocosmos.cl/catalogo/2024/nissan/navara/23d-pro-4x/177786
+NISSAN,CAMIONETA,NAVARA DC PLATINUM 2.3D,,4X4,AT,2024,navara dc platinum 23d,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/navara,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/nissan/navara/platinum-4x4/178280
+NISSAN,CAMIONETA,NAVARA DC PLATINUM 2.3D,,4X4,MT,2024,navara dc platinum 23d,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/navara,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/nissan/navara/platinum-4x4/178280
+NISSAN,CAMIONETA,NAVARA DC SE 2.3D,,4X2,MT,2024,navara dc se 23d,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/navara,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2024/nissan/navara/se-4x2/177804
+NISSAN,CAMIONETA,NAVARA DC SE 2.3D,,4X4,MT,2024,navara dc se 23d,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/navara,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/nissan/navara/se-4x4/177805
+NISSAN,CAMIONETA,NAVARA DC XE 2.3D,,4X2,MT,2024,navara dc xe 23d,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/navara,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2024/nissan/navara/xe-4x2/177806
+NISSAN,CAMIONETA,NAVARA DC XE 2.3D,,4X4,AT,2024,navara dc xe 23d,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/navara,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/nissan/navara/xe-4x4/177807
+NISSAN,CAMIONETA,NAVARA DC XE 2.3D,,4X4,MT,2024,navara dc xe 23d,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/navara,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/nissan/navara/xe-4x4/177807
+PEUGEOT,CAMIONETA,LANDTREK ACTION4 BLUEHDI 180,,4X4,AT,2024,landtrek action4 bluehdi 180,peugeot,https://www.autocosmos.cl/catalogo/vigente/peugeot/landtrek,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/peugeot/landtrek/action4-bluehdi-180-4x4-aut/177871
+PEUGEOT,CAMIONETA,LANDTREK ACTIVE BLUEHDI 180,,4X2,MT,2024,landtrek active bluehdi 180,peugeot,https://www.autocosmos.cl/catalogo/vigente/peugeot/landtrek,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2024/peugeot/landtrek/active-bluehdi-180-4x2/177868
+PEUGEOT,CAMIONETA,LANDTREK ACTIVE BLUEHDI 180,,4X4,AT,2024,landtrek active bluehdi 180,peugeot,https://www.autocosmos.cl/catalogo/vigente/peugeot/landtrek,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/peugeot/landtrek/active-bluehdi-180-4x4/177869
+PEUGEOT,CAMIONETA,LANDTREK ACTIVE BLUEHDI 180,,4X4,MT,2024,landtrek active bluehdi 180,peugeot,https://www.autocosmos.cl/catalogo/vigente/peugeot/landtrek,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/peugeot/landtrek/active-bluehdi-180-4x4/177869
+RAM,CAMIONETA,BIGHORN LX,1.8,,AT,2024,bighorn lx,ram,,18,nan,at,
+RAM,CAMIONETA,BIGHORN NIGHT EDITION,1.8,,AT,2024,bighorn night edition,ram,,18,nan,at,
+RAM,CAMIONETA,REBEL,2.0,4X4,AT,2024,rebel,ram,,20,4x4,at,
+RAM,CAMIONETA,CREW CAB BIGHORN,3.6L,,AT,2024,crew cab bighorn,ram,,36l,nan,at,
+RAM,CAMIONETA,CREW CAB LIMITED,5.7L,,AT,2024,crew cab limited,ram,,57l,nan,at,
+RAM,CAMIONETA,CREW CAB REBEL,5.7L,,AT,2024,crew cab rebel,ram,,57l,nan,at,
+RAM,CAMIONETA,700 BIGHORN CD,1.3,,AT,2024,700 bighorn cd,ram,https://www.autocosmos.cl/catalogo/vigente/ram/700,13,nan,at,https://www.autocosmos.cl/catalogo/2024/ram/700/13l-bighorn/178441
+RAM,CAMIONETA,700 BIGHORN CD,1.3L,,MT,2024,700 bighorn cd,ram,https://www.autocosmos.cl/catalogo/vigente/ram/700,13l,nan,mt,https://www.autocosmos.cl/catalogo/2024/ram/700/13l-bighorn/178441
+RAM,CAMIONETA,700 LARAMIE CD,1.3,,AT,2024,700 laramie cd,ram,https://www.autocosmos.cl/catalogo/vigente/ram/700,13,nan,at,https://www.autocosmos.cl/catalogo/2024/ram/700/14l-slt-cd/177952
+RAM,CAMIONETA,700 LARAMIE CD,1.3L,,MT,2024,700 laramie cd,ram,https://www.autocosmos.cl/catalogo/vigente/ram/700,13l,nan,mt,https://www.autocosmos.cl/catalogo/2024/ram/700/14l-slt-cd/177952
+RAM,CAMIONETA,700 LONGHORN CD,1.3,,AT,2024,700 longhorn cd,ram,https://www.autocosmos.cl/catalogo/vigente/ram/700,13,nan,at,https://www.autocosmos.cl/catalogo/2024/ram/700/13l-bighorn/178441
+RAM,CAMIONETA,700 SLT CS,1.3L,,MT,2024,700 slt cs,ram,https://www.autocosmos.cl/catalogo/vigente/ram/700,13l,nan,mt,https://www.autocosmos.cl/catalogo/2024/ram/700/14l-slt/177951
+RAM,CAMIONETA,700 SLT DC,1.3L,,MT,2024,700 slt dc,ram,https://www.autocosmos.cl/catalogo/vigente/ram/700,13l,nan,mt,https://www.autocosmos.cl/catalogo/2024/ram/700/14l-slt/177951
+RAM,CAMIONETA,RAMPAGE BIGHORN,2.0L,,AT,2024,rampage bighorn,ram,https://www.autocosmos.cl/catalogo/vigente/ram/rampage,20l,nan,at,https://www.autocosmos.cl/catalogo/2024/ram/rampage/bighorn/178345
+RAM,CAMIONETA,RAMPAGE LARAMIE,2.0L,,AT,2024,rampage laramie,ram,https://www.autocosmos.cl/catalogo/vigente/ram/rampage,20l,nan,at,https://www.autocosmos.cl/catalogo/2024/ram/rampage/laramie/178346
+RAM,CAMIONETA,RAMPAGE R/T,2.0L,,AT,2024,rampage rt,ram,https://www.autocosmos.cl/catalogo/vigente/ram/rampage,20l,nan,at,https://www.autocosmos.cl/catalogo/2024/ram/rampage/rt/178347
+RENAULT,CAMIONETA,OROCH INTENS TURBO,1.3,4X2,AT,2024,oroch intens turbo,renault,https://www.autocosmos.cl/catalogo/vigente/renault/oroch,13,4x2,at,https://www.autocosmos.cl/catalogo/2024/renault/oroch/13l-intens-aut/177977
+RENAULT,CAMIONETA,OROCH INTENS TURBO KIT,1.3,4X2,AT,2024,oroch intens turbo kit,renault,https://www.autocosmos.cl/catalogo/vigente/renault/oroch,13,4x2,at,https://www.autocosmos.cl/catalogo/2024/renault/oroch/13l-intens-aut/177977
+RENAULT,CAMIONETA,OROCH INTENS TURBO KITMT,1.3,4X4,,2024,oroch intens turbo kitmt,renault,https://www.autocosmos.cl/catalogo/vigente/renault/oroch,13,4x4,nan,https://www.autocosmos.cl/catalogo/2024/renault/oroch/13l-intens-4x4/177979
+RENAULT,CAMIONETA,OROCH INTENS TURBO,1.3,4X4,MT,2024,oroch intens turbo,renault,https://www.autocosmos.cl/catalogo/vigente/renault/oroch,13,4x4,mt,https://www.autocosmos.cl/catalogo/2024/renault/oroch/13l-intens-4x4/177979
+RENAULT,CAMIONETA,OROCH ZEN,1.6L,4X2,MT,2024,oroch zen,renault,https://www.autocosmos.cl/catalogo/vigente/renault/oroch,16l,4x2,mt,https://www.autocosmos.cl/catalogo/2024/renault/oroch/16l-zen/177976
+SSANGYONG,CAMIONETA,MUSSO GLX 2.2TD,,4X4,MT,2024,musso glx 22td,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/musso,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/ssangyong/musso/22td-glx-4x4/178028
+SSANGYONG,CAMIONETA,MUSSO GRAND GLX 2.2TD,,4X2,AT,2024,musso grand glx 22td,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/musso,nan,4x2,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/musso/22td-glx-4x4/178028
+SSANGYONG,CAMIONETA,MUSSO GRAND GLX 2.2TD,,4X2,MT,2024,musso grand glx 22td,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/musso,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2024/ssangyong/musso/22td-glx-4x4/178028
+SSANGYONG,CAMIONETA,MUSSO GRAND GLX 2.2TD,,4X4,MT,2024,musso grand glx 22td,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/musso,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/ssangyong/musso/22td-glx-4x4/178028
+SSANGYONG,CAMIONETA,MUSSO GRAND LIMITED 2.2TD,,4X4,AT,2024,musso grand limited 22td,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/musso,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/musso/22td-limited-aut-4x4/178029
+SSANGYONG,CAMIONETA,MUSSO GRAND LIMITED PLUS 2.2TD,,4X4,AT,2024,musso grand limited plus 22td,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/musso,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/musso/22td-limited-plus-4x4-aut/178030
+SSANGYONG,CAMIONETA,MUSSO GRAND LX 2.2TD,,4X2,MT,2024,musso grand lx 22td,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/musso,nan,4x2,mt,https://www.autocosmos.cl/catalogo/2024/ssangyong/musso/22td-glx-4x4/178028
+SSANGYONG,CAMIONETA,MUSSO GRAND LX 2.2TD,,4X4,MT,2024,musso grand lx 22td,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/musso,nan,4x4,mt,https://www.autocosmos.cl/catalogo/2024/ssangyong/musso/22td-glx-4x4/178028
+SSANGYONG,CAMIONETA,MUSSO LIMITED 2.2TD,,4X4,AT,2024,musso limited 22td,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/musso,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/musso/22td-limited-aut-4x4/178029
+SSANGYONG,CAMIONETA,MUSSO LIMITED PLUS 2.2TD,,4X4,AT,2024,musso limited plus 22td,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/musso,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/musso/22td-limited-plus-4x4-aut/178030
+TOYOTA,CAMIONETA,HILUX DX,2.4,4X2,MT,2024,hilux dx,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/hilux,24,4x2,mt,https://www.autocosmos.cl/catalogo/2024/toyota/hilux/24l-dx-cd-4x2/178145
+TOYOTA,CAMIONETA,HILUX DX,2.4,4X4,MT,2024,hilux dx,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/hilux,24,4x4,mt,https://www.autocosmos.cl/catalogo/2024/toyota/hilux/24l-sr-cd-4x4/178147
+TOYOTA,CAMIONETA,HILUX DX,2.8,4X4,MT,2024,hilux dx,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/hilux,28,4x4,mt,https://www.autocosmos.cl/catalogo/2024/toyota/hilux/24l-sr-cd-4x4/178147
+TOYOTA,CAMIONETA,HILUX DX CS,2.8,4X4,MT,2024,hilux dx cs,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/hilux,28,4x4,mt,https://www.autocosmos.cl/catalogo/2024/toyota/hilux/24l-sr-cd-4x4/178147
+TOYOTA,CAMIONETA,HILUX DX DC,2.4,4X2,MT,2024,hilux dx dc,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/hilux,24,4x2,mt,https://www.autocosmos.cl/catalogo/2024/toyota/hilux/24l-dx-cd-4x2/178145
+TOYOTA,CAMIONETA,HILUX DX DC,2.4,4X4,MT,2024,hilux dx dc,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/hilux,24,4x4,mt,https://www.autocosmos.cl/catalogo/2024/toyota/hilux/24l-sr-cd-4x4/178147
+TOYOTA,CAMIONETA,HILUX SR,2.4,4X2,MT,2024,hilux sr,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/hilux,24,4x2,mt,https://www.autocosmos.cl/catalogo/2024/toyota/hilux/24l-sr-cd-4x2/178148
+TOYOTA,CAMIONETA,HILUX SR,2.4,4X4,MT,2024,hilux sr,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/hilux,24,4x4,mt,https://www.autocosmos.cl/catalogo/2024/toyota/hilux/24l-sr-cd-4x4/178147
+TOYOTA,CAMIONETA,HILUX SR,2.7,4X2,MT,2024,hilux sr,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/hilux,27,4x2,mt,https://www.autocosmos.cl/catalogo/2024/toyota/hilux/24l-sr-cd-4x2/178148
+TOYOTA,CAMIONETA,HILUX SR,2.8,4X4,MT,2024,hilux sr,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/hilux,28,4x4,mt,https://www.autocosmos.cl/catalogo/2024/toyota/hilux/24l-sr-cd-4x4/178147
+TOYOTA,CAMIONETA,HILUX SR DC,2.4,4X2,MT,2024,hilux sr dc,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/hilux,24,4x2,mt,https://www.autocosmos.cl/catalogo/2024/toyota/hilux/24l-sr-cd-4x2/178148
+TOYOTA,CAMIONETA,HILUX SR DC,2.4,4X4,MT,2024,hilux sr dc,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/hilux,24,4x4,mt,https://www.autocosmos.cl/catalogo/2024/toyota/hilux/24l-sr-cd-4x4/178147
+TOYOTA,CAMIONETA,HILUX SRV,2.8,4X4,AT,2024,hilux srv,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/hilux,28,4x4,at,https://www.autocosmos.cl/catalogo/2024/toyota/hilux/24l-sr-cd-4x4/178147
+ZNA,CAMIONETA,R6,,,AT,2024,r6,zna,,nan,nan,at,
+BAIC,SEDÁN,EU5 EV,,,,2024,eu5 ev,baic,,nan,nan,nan,
+BYD,SEDÁN,HAN EV,,,,2024,han ev,byd,https://www.autocosmos.cl/catalogo/vigente/byd/han-ev,nan,nan,nan,https://www.autocosmos.cl/catalogo/2024/byd/han-ev/gs/176941
+BYD,SEDÁN,QIN PLUS DM,,,,2024,qin plus dm,byd,https://www.autocosmos.cl/catalogo/vigente/byd/qin,nan,nan,nan,https://www.autocosmos.cl/catalogo/2024/byd/qin/plus-dm-i/176944
+BYD,SEDÁN,SEAL EV,,,,2024,seal ev,byd,https://www.autocosmos.cl/catalogo/vigente/byd/seal,nan,nan,nan,https://www.autocosmos.cl/catalogo/2024/byd/seal/gs/176943
+CHANGAN,SEDÁN,ALSVIN COMFORT,,,,2024,alsvin comfort,changan,https://www.autocosmos.cl/catalogo/vigente/changan/alsvin,nan,nan,nan,https://www.autocosmos.cl/catalogo/2024/changan/alsvin/comfort/176945
+CHANGAN,SEDÁN,ALSVIN ELITE,,,AT,2024,alsvin elite,changan,https://www.autocosmos.cl/catalogo/vigente/changan/alsvin,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/changan/alsvin/elite-aut/176947
+CHANGAN,SEDÁN,ALSVIN LUXURY,,,,2024,alsvin luxury,changan,https://www.autocosmos.cl/catalogo/vigente/changan/alsvin,nan,nan,nan,https://www.autocosmos.cl/catalogo/2024/changan/alsvin/luxury/176946
+CHEVROLET,SEDÁN,ONIX LT R,1.0,,,2024,onix lt r,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/onix,10,nan,nan,https://www.autocosmos.cl/catalogo/2024/chevrolet/onix/10t-ltz-r/178433
+CHEVROLET,SEDÁN,ONIX LTZ P2,1.0,,,2024,onix ltz p2,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/onix,10,nan,nan,https://www.autocosmos.cl/catalogo/2024/chevrolet/onix/10t-ltz-r/178433
+CHEVROLET,SEDÁN,ONIX PREMIER R,1.0,,,2024,onix premier r,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/onix,10,nan,nan,https://www.autocosmos.cl/catalogo/2024/chevrolet/onix/10t-premier-s-aut/178517
+CHEVROLET,SEDÁN,ONIX LS P,1.2,,,2024,onix ls p,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/onix,12,nan,nan,https://www.autocosmos.cl/catalogo/2024/chevrolet/onix/10t-ltz-r/178433
+CHEVROLET,SEDÁN,SAIL NB LT,1.5L,,,2024,sail nb lt,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/sail,15l,nan,nan,https://www.autocosmos.cl/catalogo/2024/chevrolet/sail/15-lt/176749
+CHEVROLET,SEDÁN,SAIL NB LTZ,1.5L,,,2024,sail nb ltz,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/sail,15l,nan,nan,https://www.autocosmos.cl/catalogo/2024/chevrolet/sail/15-lt/176749
+CHEVROLET,SEDÁN,SAIL NB LTZ,1.5L,,CVT,2024,sail nb ltz,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/sail,15l,nan,cvt,https://www.autocosmos.cl/catalogo/2024/chevrolet/sail/15-lt/176749
+CITROEN,SEDÁN,HDI 100 BVM6 C-ELYSEE FEEL PACK,1.5,,,2024,hdi 100 bvm6 celysee feel pack,citroen,,15,nan,nan,
+CITROEN,SEDÁN,C4 BLUEHDI 130 S&S FEEL PACK,1.5,,EAT8,2024,c4 bluehdi 130 ss feel pack,citroen,,15,nan,eat8,
+CITROEN,SEDÁN,C4 BLUEHDI 130 S&S SHINE,1.5,,EAT8,2024,c4 bluehdi 130 ss shine,citroen,,15,nan,eat8,
+HYUNDAI,SEDÁN,ACCENT BN7I DESIGN,1.5,,,2024,accent bn7i design,hyundai,,15,nan,nan,
+HYUNDAI,SEDÁN,ACCENT BN7I PLUS,1.5,,,2024,accent bn7i plus,hyundai,,15,nan,nan,
+HYUNDAI,SEDÁN,GRAND I10 AI3 DESIGN FL,1.2,,,2024,grand i10 ai3 design fl,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/grand-i10,12,nan,nan,https://www.autocosmos.cl/catalogo/2024/hyundai/grand-i10/12l-design/176702
+HYUNDAI,SEDÁN,GRAND I10 AI3 PLUS FL,1.2,,,2024,grand i10 ai3 plus fl,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/grand-i10,12,nan,nan,https://www.autocosmos.cl/catalogo/2024/hyundai/grand-i10/12l-plus/176700
+KIA,SEDÁN,EV6 EV GT-LINE 77.4KWH,,AWD,,2024,ev6 ev gtline 774kwh,kia,https://www.autocosmos.cl/catalogo/vigente/kia/ev6,nan,awd,nan,https://www.autocosmos.cl/catalogo/2024/kia/ev6/gt-line/178369
+KIA,SEDÁN,SOLUTO EX G SRF FULL,1.4L,,5MT,2024,soluto ex g srf full,kia,https://www.autocosmos.cl/catalogo/vigente/kia/soluto,14l,nan,5mt,https://www.autocosmos.cl/catalogo/2024/kia/soluto/14l-ex/177483
+KIA,SEDÁN,SOLUTO LX G LL,1.4L,,5MT,2024,soluto lx g ll,kia,https://www.autocosmos.cl/catalogo/vigente/kia/soluto,14l,nan,5mt,https://www.autocosmos.cl/catalogo/2024/kia/soluto/14l-lx/177455
+MG,SEDÁN,3 COM,,,AT,2024,3 com,mg,https://www.autocosmos.cl/catalogo/vigente/mg/3,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/mg/3/15l-com/177707
+MG,SEDÁN,5 COM,1.5L,,CVT,2024,5 com,mg,https://www.autocosmos.cl/catalogo/vigente/mg/5,15l,nan,cvt,https://www.autocosmos.cl/catalogo/2024/mg/5/15l-com/177711
+MG,SEDÁN,5 DLX,1.5L,,CVT,2024,5 dlx,mg,https://www.autocosmos.cl/catalogo/vigente/mg/5,15l,nan,cvt,https://www.autocosmos.cl/catalogo/2024/mg/5/15l-dlx/177713
+MG,SEDÁN,5 COM,1.5L,,MT,2024,5 com,mg,https://www.autocosmos.cl/catalogo/vigente/mg/5,15l,nan,mt,https://www.autocosmos.cl/catalogo/2024/mg/5/15l-com/177711
+MG,SEDÁN,5 DLX,1.5L,,MT,2024,5 dlx,mg,https://www.autocosmos.cl/catalogo/vigente/mg/5,15l,nan,mt,https://www.autocosmos.cl/catalogo/2024/mg/5/15l-dlx/177713
+MG,SEDÁN,6 COM,1.5T,,MT,2024,6 com,mg,https://www.autocosmos.cl/catalogo/vigente/mg/6,15t,nan,mt,https://www.autocosmos.cl/catalogo/2024/mg/6/15l-com/177715
+MG,SEDÁN,6 DLX,1.5T,,MT,2024,6 dlx,mg,https://www.autocosmos.cl/catalogo/vigente/mg/6,15t,nan,mt,https://www.autocosmos.cl/catalogo/2024/mg/6/15l-dlx/177716
+MG,SEDÁN,GT COM,1.5L,2WD,CVT,2024,gt com,mg,https://www.autocosmos.cl/catalogo/vigente/mg/gt,15l,2wd,cvt,https://www.autocosmos.cl/catalogo/2024/mg/gt/15l-com/177704
+MG,SEDÁN,GT COM,1.5L,2WD,MT,2024,gt com,mg,https://www.autocosmos.cl/catalogo/vigente/mg/gt,15l,2wd,mt,https://www.autocosmos.cl/catalogo/2024/mg/gt/15l-com/177704
+MG,SEDÁN,GT DLX,1.5T,,DCT,2024,gt dlx,mg,https://www.autocosmos.cl/catalogo/vigente/mg/gt,15t,nan,dct,https://www.autocosmos.cl/catalogo/2024/mg/gt/15l-dlx-dct/177732
+NISSAN,SEDÁN,LEAF,,,,2024,leaf,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/leaf,nan,nan,nan,https://www.autocosmos.cl/catalogo/2024/nissan/leaf/tekna/177781
+NISSAN,SEDÁN,SENTRA ADVANCE,,,CVT,2024,sentra advance,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/sentra,nan,nan,cvt,https://www.autocosmos.cl/catalogo/2024/nissan/sentra/20l-advance-cvt/177783
+NISSAN,SEDÁN,SENTRA ADVANCE,,,MT,2024,sentra advance,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/sentra,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/nissan/sentra/20l-advance-cvt/177783
+NISSAN,SEDÁN,SENTRA EXCLUSIVE,,,CVT,2024,sentra exclusive,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/sentra,nan,nan,cvt,https://www.autocosmos.cl/catalogo/2024/nissan/sentra/20l-exclusive-cvt/177784
+NISSAN,SEDÁN,SENTRA SENSE,,,MT,2024,sentra sense,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/sentra,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/nissan/sentra/20l-sense/177785
+NISSAN,SEDÁN,VERSA ADVANCE,,,CVT,2024,versa advance,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/versa,nan,nan,cvt,https://www.autocosmos.cl/catalogo/2024/nissan/versa/16l-advance/177801
+NISSAN,SEDÁN,VERSA ADVANCE,,,MT,2024,versa advance,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/versa,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/nissan/versa/16l-advance/177801
+NISSAN,SEDÁN,VERSA EXCLUSIVE,,,CVT,2024,versa exclusive,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/versa,nan,nan,cvt,https://www.autocosmos.cl/catalogo/2024/nissan/versa/16l-exclusive-aut/177803
+NISSAN,SEDÁN,VERSA SENSE,,,CVT,2024,versa sense,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/versa,nan,nan,cvt,https://www.autocosmos.cl/catalogo/2024/nissan/versa/16l-sense/177799
+NISSAN,SEDÁN,VERSA SENSE,,,MT,2024,versa sense,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/versa,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/nissan/versa/16l-sense/177799
+TOYOTA,SEDÁN,COROLLA SEG HEV,1.8,,,2024,corolla seg hev,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/corolla,18,nan,nan,https://www.autocosmos.cl/catalogo/2024/toyota/corolla/20l-xei/178140
+TOYOTA,SEDÁN,YARIS I,1.5,,,2024,yaris i,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/yaris,15,nan,nan,https://www.autocosmos.cl/catalogo/2024/toyota/yaris/15l-i/178184
+BAIC,SUV,BJ40P DIESEL PREMIUM,,4X4,,2024,bj40p diesel premium,baic,,nan,4x4,nan,
+BAIC,SUV,BJ40P GASOLINA ELITE,,4X2,,2024,bj40p gasolina elite,baic,,nan,4x2,nan,
+BAIC,SUV,BJ40P GASOLINA LUXURY,,4X4,,2024,bj40p gasolina luxury,baic,,nan,4x4,nan,
+BAIC,SUV,X35 LUXURY,1.5T,,CVT,2024,x35 luxury,baic,https://www.autocosmos.cl/catalogo/vigente/baic/x35,15t,nan,cvt,https://www.autocosmos.cl/catalogo/2024/baic/x35/15l-luxury/176849
+BAIC,SUV,X35 COMFORT,1.5T,,MT,2024,x35 comfort,baic,https://www.autocosmos.cl/catalogo/vigente/baic/x35,15t,nan,mt,https://www.autocosmos.cl/catalogo/2024/baic/x35/15l-comfort/176855
+BAIC,SUV,X35 ELITE,1.5T,,MT,2024,x35 elite,baic,https://www.autocosmos.cl/catalogo/vigente/baic/x35,15t,nan,mt,https://www.autocosmos.cl/catalogo/2025/baic/x35/15l-elite/178512
+BAIC,SUV,X55 E6 COMFORT,1.5T,,MT,2024,x55 e6 comfort,baic,https://www.autocosmos.cl/catalogo/vigente/baic/x55,15t,nan,mt,https://www.autocosmos.cl/catalogo/2024/baic/x55/15l-comfort/176850
+BAIC,SUV,X55 E6 ELITE,1.5T,,MT,2024,x55 e6 elite,baic,https://www.autocosmos.cl/catalogo/vigente/baic/x55,15t,nan,mt,https://www.autocosmos.cl/catalogo/2025/baic/x55/15l-elite/178511
+BAIC,SUV,X55 PLUS COMFORT,,,,2024,x55 plus comfort,baic,https://www.autocosmos.cl/catalogo/vigente/baic/x55,nan,nan,nan,https://www.autocosmos.cl/catalogo/2024/baic/x55/15l-comfort/176850
+BAIC,SUV,X55 PLUS ELITE,,,,2024,x55 plus elite,baic,https://www.autocosmos.cl/catalogo/vigente/baic/x55,nan,nan,nan,https://www.autocosmos.cl/catalogo/2025/baic/x55/15l-elite/178511
+BAIC,SUV,X55 PLUS LUXURY,,,,2024,x55 plus luxury,baic,https://www.autocosmos.cl/catalogo/vigente/baic/x55,nan,nan,nan,https://www.autocosmos.cl/catalogo/2025/baic/x55/15l-elite/178511
+BYD,SUV,SONG PLUS DM GL,,,AT,2024,song plus dm gl,byd,https://www.autocosmos.cl/catalogo/vigente/byd/song-plus,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/byd/song-plus/gs/176936
+BYD,SUV,SONG PLUS DM GS,,,AT,2024,song plus dm gs,byd,https://www.autocosmos.cl/catalogo/vigente/byd/song-plus,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/byd/song-plus/gs/176936
+BYD,SUV,YUAN PLUS EV GL,,,AT,2024,yuan plus ev gl,byd,https://www.autocosmos.cl/catalogo/vigente/byd/yuan-plus-ev,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/byd/yuan-plus-ev/gl/176938
+BYD,SUV,YUAN PLUS EV GS,,,AT,2024,yuan plus ev gs,byd,https://www.autocosmos.cl/catalogo/vigente/byd/yuan-plus-ev,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/byd/yuan-plus-ev/gs/176939
+CHANGAN,SUV,CS15 COMFORT,1.5L,,MT,2024,cs15 comfort,changan,https://www.autocosmos.cl/catalogo/vigente/changan/cs15,15l,nan,mt,https://www.autocosmos.cl/catalogo/2024/changan/cs15/elite/176954
+CHANGAN,SUV,CS15 ELITE,1.5L,,AT,2024,cs15 elite,changan,https://www.autocosmos.cl/catalogo/vigente/changan/cs15,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/changan/cs15/elite/176954
+CHANGAN,SUV,CS15 ELITE,1.5L,,MT,2024,cs15 elite,changan,https://www.autocosmos.cl/catalogo/vigente/changan/cs15,15l,nan,mt,https://www.autocosmos.cl/catalogo/2024/changan/cs15/elite/176954
+CHANGAN,SUV,CS15 LUXURY,1.5L,,MT,2024,cs15 luxury,changan,https://www.autocosmos.cl/catalogo/vigente/changan/cs15,15l,nan,mt,https://www.autocosmos.cl/catalogo/2024/changan/cs15/luxury/176953
+CHANGAN,SUV,CS35 PLUS ELITE,1.4L,,AT,2024,cs35 plus elite,changan,https://www.autocosmos.cl/catalogo/vigente/changan/cs35-plus,14l,nan,at,https://www.autocosmos.cl/catalogo/2024/changan/cs35-plus/14l-elite-aut/178396
+CHANGAN,SUV,CS35 PLUS LUX,1.4L,,AT,2024,cs35 plus lux,changan,https://www.autocosmos.cl/catalogo/vigente/changan/cs35-plus,14l,nan,at,https://www.autocosmos.cl/catalogo/2024/changan/cs35-plus/16l-luxury/176973
+CHANGAN,SUV,CS35 PLUS COMFORT,1.6L,,MT,2024,cs35 plus comfort,changan,https://www.autocosmos.cl/catalogo/vigente/changan/cs35-plus,16l,nan,mt,https://www.autocosmos.cl/catalogo/2024/changan/cs35-plus/16l-luxury/176973
+CHANGAN,SUV,CS35 PLUS LUXURY,1.6L,,MT,2024,cs35 plus luxury,changan,https://www.autocosmos.cl/catalogo/vigente/changan/cs35-plus,16l,nan,mt,https://www.autocosmos.cl/catalogo/2024/changan/cs35-plus/16l-luxury/176973
+CHANGAN,SUV,CS55 COMFORT,1.5L,,MT,2024,cs55 comfort,changan,https://www.autocosmos.cl/catalogo/vigente/changan/cs55,15l,nan,mt,https://www.autocosmos.cl/catalogo/2024/changan/cs55/comfort/176961
+CHANGAN,SUV,CS55 LUXURY,1.5L,,AT,2024,cs55 luxury,changan,https://www.autocosmos.cl/catalogo/vigente/changan/cs55,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/changan/cs55/luxury/176962
+CHANGAN,SUV,CS55 LUXURY,1.5L,,MT,2024,cs55 luxury,changan,https://www.autocosmos.cl/catalogo/vigente/changan/cs55,15l,nan,mt,https://www.autocosmos.cl/catalogo/2024/changan/cs55/luxury/176962
+CHANGAN,SUV,CS55 PLUS ELITE,1.5L,,AT,2024,cs55 plus elite,changan,https://www.autocosmos.cl/catalogo/vigente/changan/cs55,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/changan/cs55/luxury/176962
+CHANGAN,SUV,CS55 PLUS LUXURY,1.5L,,AT,2024,cs55 plus luxury,changan,https://www.autocosmos.cl/catalogo/vigente/changan/cs55,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/changan/cs55/luxury/176962
+CHERY,SUV,TIGGO 2 PRO GLX,1.0L,,AT,2024,tiggo 2 pro glx,chery,https://www.autocosmos.cl/catalogo/vigente/chery/tiggo-2-pro,10l,nan,at,https://www.autocosmos.cl/catalogo/2024/chery/tiggo-2-pro/15l-gls-limited-edition/178460
+CHERY,SUV,TIGGO 2 PRO GLX,1.0L,,MT,2024,tiggo 2 pro glx,chery,https://www.autocosmos.cl/catalogo/vigente/chery/tiggo-2-pro,10l,nan,mt,https://www.autocosmos.cl/catalogo/2024/chery/tiggo-2-pro/15l-gls-limited-edition/178460
+CHERY,SUV,TIGGO 2 GLS,1.5L,,AT,2024,tiggo 2 gls,chery,https://www.autocosmos.cl/catalogo/vigente/chery/tiggo-8,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/chery/tiggo-8/15l-gls/176989
+CHERY,SUV,TIGGO 2 PRO GLS,1.5L,,AT,2024,tiggo 2 pro gls,chery,https://www.autocosmos.cl/catalogo/vigente/chery/tiggo-2-pro,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/chery/tiggo-2-pro/15l-gls-limited-edition/178460
+CHERY,SUV,TIGGO 2 PRO GLS,1.5L,,MT,2024,tiggo 2 pro gls,chery,https://www.autocosmos.cl/catalogo/vigente/chery/tiggo-2-pro,15l,nan,mt,https://www.autocosmos.cl/catalogo/2024/chery/tiggo-2-pro/15l-gls-limited-edition/178460
+CHERY,SUV,TIGGO 3 PRO GLS,1.5L,,AT,2024,tiggo 3 pro gls,chery,https://www.autocosmos.cl/catalogo/vigente/chery/tiggo-3-pro,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/chery/tiggo-3-pro/gls-cvt/177000
+CHERY,SUV,TIGGO 3 PRO GLX,1.5L,,AT,2024,tiggo 3 pro glx,chery,https://www.autocosmos.cl/catalogo/vigente/chery/tiggo-3-pro,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/chery/tiggo-3-pro/glx-turbo/177005
+CHERY,SUV,TIGGO 3 PRO GLX,1.5L,,MT,2024,tiggo 3 pro glx,chery,https://www.autocosmos.cl/catalogo/vigente/chery/tiggo-3-pro,15l,nan,mt,https://www.autocosmos.cl/catalogo/2024/chery/tiggo-3-pro/glx-turbo/177005
+CHERY,SUV,TIGGO 7 PRO GLS,1.5L,,AT,2024,tiggo 7 pro gls,chery,https://www.autocosmos.cl/catalogo/vigente/chery/tiggo-7-pro,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/chery/tiggo-7-pro/15t-gls-cvt/176993
+CHERY,SUV,TIGGO 7 PRO GLX,1.5L,,AT,2024,tiggo 7 pro glx,chery,https://www.autocosmos.cl/catalogo/vigente/chery/tiggo-7-pro,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/chery/tiggo-7-pro/15t-glx-cvt/176994
+CHERY,SUV,TIGGO 8 GLS,1.5L,,MT,2024,tiggo 8 gls,chery,https://www.autocosmos.cl/catalogo/vigente/chery/tiggo-8,15l,nan,mt,https://www.autocosmos.cl/catalogo/2024/chery/tiggo-8/15l-gls/176989
+CHERY,SUV,TIGGO 8 GLX,1.5L,,AT,2024,tiggo 8 glx,chery,https://www.autocosmos.cl/catalogo/vigente/chery/tiggo-8,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/chery/tiggo-8/15l-gls/176989
+CHERY,SUV,TIGGO 8 PRO GLX,1.6L,,AT,2024,tiggo 8 pro glx,chery,https://www.autocosmos.cl/catalogo/vigente/chery/tiggo-8,16l,nan,at,https://www.autocosmos.cl/catalogo/2024/chery/tiggo-8/15l-gls/176989
+CHERY,SUV,TIGGO 8 PRO MAX GLX,1.6L,,AT,2024,tiggo 8 pro max glx,chery,https://www.autocosmos.cl/catalogo/vigente/chery/tiggo-8,16l,nan,at,https://www.autocosmos.cl/catalogo/2024/chery/tiggo-8/15l-gls/176989
+CHERY,SUV,TIGGO 8 PRO MAX GLX,2.0L,AWD,AT,2024,tiggo 8 pro max glx,chery,https://www.autocosmos.cl/catalogo/vigente/chery/tiggo-8,20l,awd,at,https://www.autocosmos.cl/catalogo/2024/chery/tiggo-8/15l-gls/176989
+CHEVROLET,SUV,BLAZER RS,3.6L,AWD,AT,2024,blazer rs,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/blazer,36l,awd,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/blazer/36l-rs-4x4/177032
+CHEVROLET,SUV,BOLT EUV,,,AT,2024,bolt euv,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/bolt,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/bolt/ltz/177055
+CHEVROLET,SUV,CAPTIVA LTZ P,1.5L,,AT,2024,captiva ltz p,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/captiva,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/captiva/15t-ltz-cvt-r/178466
+CHEVROLET,SUV,CAPTIVA LTZ P,1.5L,,MT,2024,captiva ltz p,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/captiva,15l,nan,mt,https://www.autocosmos.cl/catalogo/2024/chevrolet/captiva/15t-ltz-cvt-r/178466
+CHEVROLET,SUV,CAPTIVA PREMIER P,1.5L,,AT,2024,captiva premier p,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/captiva,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/captiva/15t-premier-cvt-p2/177054
+CHEVROLET,SUV,CAPTIVA PREMIER P,1.5L,,MT,2024,captiva premier p,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/captiva,15l,nan,mt,https://www.autocosmos.cl/catalogo/2024/chevrolet/captiva/15t-premier-cvt-p2/177054
+CHEVROLET,SUV,GROOVE LTZ R,1.5L,,MT,2024,groove ltz r,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/groove,15l,nan,mt,https://www.autocosmos.cl/catalogo/2024/chevrolet/groove/15l-premier-s/178465
+CHEVROLET,SUV,GROOVE PREMIER R,1.5L,,MT,2024,groove premier r,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/groove,15l,nan,mt,https://www.autocosmos.cl/catalogo/2024/chevrolet/groove/15l-premier-s/178465
+CHEVROLET,SUV,SPIN ACTIV 7P,1.8L,,AT,2024,spin activ 7p,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/spin,18l,nan,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/spin/18l-premier/177020
+CHEVROLET,SUV,SPIN PREMIER 7P,1.8L,,MT,2024,spin premier 7p,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/spin,18l,nan,mt,https://www.autocosmos.cl/catalogo/2024/chevrolet/spin/18l-premier/177020
+CHEVROLET,SUV,SUBURBAN Z71 P,5.3L,4WD,AT,2024,suburban z71 p,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/suburban,53l,4wd,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/suburban/53l-4x4/177014
+CHEVROLET,SUV,TAHOE Z71 P,5.3L,4WD,AT,2024,tahoe z71 p,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/tahoe,53l,4wd,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/tahoe/z71-53l-ltz-4x4/177015
+CHEVROLET,SUV,TRACKER LS R,1.2L,,MT,2024,tracker ls r,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/tracker,12l,nan,mt,https://www.autocosmos.cl/catalogo/2024/chevrolet/tracker/12l-ltz-r/178407
+CHEVROLET,SUV,TRACKER LTZ P,1.2L,,MT,2024,tracker ltz p,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/tracker,12l,nan,mt,https://www.autocosmos.cl/catalogo/2024/chevrolet/tracker/12l-ltz-r/178407
+CHEVROLET,SUV,TRACKER LTZ R,1.2L,,AT,2024,tracker ltz r,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/tracker,12l,nan,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/tracker/12l-ltz-r/178407
+CHEVROLET,SUV,TRACKER PREMIER P3,1.2L,,AT,2024,tracker premier p3,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/tracker,12l,nan,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/tracker/12l-premier-aut-r/178435
+CHEVROLET,SUV,TRACKER PREMIER P4,1.2L,,AT,2024,tracker premier p4,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/tracker,12l,nan,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/tracker/12l-premier-aut-r/178435
+CHEVROLET,SUV,TRACKER RS R,1.2L,,AT,2024,tracker rs r,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/tracker,12l,nan,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/tracker/12l-rs-aut-r/177052
+CHEVROLET,SUV,TRAVERSE LT,3.6L,AWD,AT,2024,traverse lt,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/traverse,36l,awd,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/traverse/36l-lt-4x4/177017
+CHEVROLET,SUV,TRAVERSE PREMIER,3.6L,AWD,AT,2024,traverse premier,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/traverse,36l,awd,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/traverse/36l-premier-4x4/177018
+CHEVROLET,SUV,TRAVERSE RS,3.6L,AWD,AT,2024,traverse rs,chevrolet,https://www.autocosmos.cl/catalogo/vigente/chevrolet/traverse,36l,awd,at,https://www.autocosmos.cl/catalogo/2024/chevrolet/traverse/36l-rs-4x4/177027
+CITROEN,SUV,C5 AIRCROSS BLUEHDI 130 S&S FEEL,1.5L,,AT,2024,c5 aircross bluehdi 130 ss feel,citroen,,15l,nan,at,
+CITROEN,SUV,C5 AIRCROSS BLUEHDI 130 S&S FEEL PACK,1.5L,,AT,2024,c5 aircross bluehdi 130 ss feel pack,citroen,,15l,nan,at,
+CITROEN,SUV,C5 AIRCROSS BLUEHDI 130 S&S SHINE,1.5L,,AT,2024,c5 aircross bluehdi 130 ss shine,citroen,,15l,nan,at,
+CITROEN,SUV,C5 AIRCROSS HYBRID 225 SHINE,,,AT,2024,c5 aircross hybrid 225 shine,citroen,,nan,nan,at,
+DFSK,SUV,SUV 500 COMFORT,1.5,,,2024,suv 500 comfort,dfsk,,15,nan,nan,
+DFSK,SUV,SUV 500 LUXURY,1.5,,,2024,suv 500 luxury,dfsk,,15,nan,nan,
+DFSK,SUV,SUV 500 LUXURY,1.5,,CVT,2024,suv 500 luxury,dfsk,,15,nan,cvt,
+DFSK,SUV,SUV 560 COMFORT,1.8,2R,,2024,suv 560 comfort,dfsk,https://www.autocosmos.cl/catalogo/vigente/dfsk/560,18,2r,nan,https://www.autocosmos.cl/catalogo/2024/dfsk/560/18l-comfort/177090
+DFSK,SUV,SUV 560 COMFORT,1.8L,,,2024,suv 560 comfort,dfsk,https://www.autocosmos.cl/catalogo/vigente/dfsk/560,18l,nan,nan,https://www.autocosmos.cl/catalogo/2024/dfsk/560/18l-comfort/177090
+DFSK,SUV,SUV 600 COMFORT,1.5T,,AT,2024,suv 600 comfort,dfsk,https://www.autocosmos.cl/catalogo/vigente/dfsk/600,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/dfsk/600/15l-comfort/178269
+DFSK,SUV,SUV 600 COMFORT,1.5T,,MT,2024,suv 600 comfort,dfsk,https://www.autocosmos.cl/catalogo/vigente/dfsk/600,15t,nan,mt,https://www.autocosmos.cl/catalogo/2024/dfsk/600/15l-comfort/178269
+DFSK,SUV,SUV 600 LUXURY,1.5T,,AT,2024,suv 600 luxury,dfsk,https://www.autocosmos.cl/catalogo/vigente/dfsk/600,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/dfsk/600/15l-luxury-aut/178271
+EXEED,SUV,LX ADVANCED,1.5T,,AT,2024,lx advanced,exeed,https://www.autocosmos.cl/catalogo/vigente/exeed/lx,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/exeed/lx/15l-advanced/177134
+EXEED,SUV,LX UNLIMITED,1.5T,,AT,2024,lx unlimited,exeed,https://www.autocosmos.cl/catalogo/vigente/exeed/lx,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/exeed/lx/15l-unlimited/177135
+EXEED,SUV,LX UNLIMITED,1.5T,AWD,AT,2024,lx unlimited,exeed,https://www.autocosmos.cl/catalogo/vigente/exeed/lx,15t,awd,at,https://www.autocosmos.cl/catalogo/2024/exeed/lx/15l-unlimited-awd/177136
+EXEED,SUV,TXL UNLIMITED,2.0T,,AT,2024,txl unlimited,exeed,https://www.autocosmos.cl/catalogo/vigente/exeed/txl,20t,nan,at,https://www.autocosmos.cl/catalogo/2024/exeed/txl/20l-unlimited/177132
+EXEED,SUV,TXL UNLIMITED,2.0T,AWD,AT,2024,txl unlimited,exeed,https://www.autocosmos.cl/catalogo/vigente/exeed/txl,20t,awd,at,https://www.autocosmos.cl/catalogo/2024/exeed/txl/20l-unlimited/177132
+FIAT,SUV,FASTBACK AUDACE,1.0L,,AT,2024,fastback audace,fiat,https://www.autocosmos.cl/catalogo/vigente/fiat/fastback,10l,nan,at,https://www.autocosmos.cl/catalogo/2024/fiat/fastback/drive/177152
+FIAT,SUV,FASTBACK DRIVE,1.0L,,AT,2024,fastback drive,fiat,https://www.autocosmos.cl/catalogo/vigente/fiat/fastback,10l,nan,at,https://www.autocosmos.cl/catalogo/2024/fiat/fastback/drive/177152
+FIAT,SUV,FASTBACK IMPETUS,1.0L,,AT,2024,fastback impetus,fiat,https://www.autocosmos.cl/catalogo/vigente/fiat/fastback,10l,nan,at,https://www.autocosmos.cl/catalogo/2024/fiat/fastback/impetus/177157
+FIAT,SUV,PULSE DRIVE,1.3L,,AT,2024,pulse drive,fiat,https://www.autocosmos.cl/catalogo/vigente/fiat/pulse,13l,nan,at,https://www.autocosmos.cl/catalogo/2024/fiat/pulse/13l-drive/177146
+FIAT,SUV,PULSE DRIVE,1.3L,,MT,2024,pulse drive,fiat,https://www.autocosmos.cl/catalogo/vigente/fiat/pulse,13l,nan,mt,https://www.autocosmos.cl/catalogo/2024/fiat/pulse/13l-drive/177146
+FIAT,SUV,PULSE IMPETUS,1.0L,,AT,2024,pulse impetus,fiat,https://www.autocosmos.cl/catalogo/vigente/fiat/pulse,10l,nan,at,https://www.autocosmos.cl/catalogo/2024/fiat/pulse/10l-impetus-aut/177148
+FORD,SUV,ESCAPE PLATINUM ECOBOOST,2.0L,AWD,AT,2024,escape platinum ecoboost,ford,https://www.autocosmos.cl/catalogo/vigente/ford/escape,20l,awd,at,https://www.autocosmos.cl/catalogo/2024/ford/escape/20l-platinum-awd/178330
+FORD,SUV,ESCAPE PLATINUM HEV,2.5L,AWD,AT,2024,escape platinum hev,ford,https://www.autocosmos.cl/catalogo/vigente/ford/escape,25l,awd,at,https://www.autocosmos.cl/catalogo/2024/ford/escape/20l-platinum-awd/178330
+FORD,SUV,ESCAPE ST LINE FHEV,2.5L,,AT,2024,escape st line fhev,ford,https://www.autocosmos.cl/catalogo/vigente/ford/escape,25l,nan,at,https://www.autocosmos.cl/catalogo/2024/ford/escape/20l-platinum-awd/178330
+FORD,SUV,TERRITORY TREND,1.5L,4X2,AT,2024,territory trend,ford,https://www.autocosmos.cl/catalogo/vigente/ford/territory,15l,4x2,at,https://www.autocosmos.cl/catalogo/2024/ford/territory/15l-trend/177185
+GAC,SUV,EMKOO GDI GE,1.5T,,AT,2024,emkoo gdi ge,gac,https://www.autocosmos.cl/catalogo/vigente/gac/emkoo,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/gac/emkoo/15t-ge/177228
+GAC,SUV,EMKOO GDI GL,1.5T,,AT,2024,emkoo gdi gl,gac,https://www.autocosmos.cl/catalogo/vigente/gac/emkoo,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/gac/emkoo/15t-gl/177229
+GAC,SUV,EMZOOM GB,1.5T,,AT,2024,emzoom gb,gac,https://www.autocosmos.cl/catalogo/vigente/gac/emzoom,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/gac/emzoom/15t-gb/177232
+GAC,SUV,EMZOOM GL,1.5T,,AT,2024,emzoom gl,gac,https://www.autocosmos.cl/catalogo/vigente/gac/emzoom,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/gac/emzoom/15t-gl/177233
+GAC,SUV,EMZOOM GL R-STYLE,1.5T,,AT,2024,emzoom gl rstyle,gac,https://www.autocosmos.cl/catalogo/vigente/gac/emzoom,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/gac/emzoom/15t-gl-r-style/177234
+GAC,SUV,GS3 POWER GB,1.5T,,AT,2024,gs3 power gb,gac,https://www.autocosmos.cl/catalogo/vigente/gac/gs3-power,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/gac/gs3-power/15l-gb/177222
+GAC,SUV,GS3 POWER GS,1.5T,,AT,2024,gs3 power gs,gac,https://www.autocosmos.cl/catalogo/vigente/gac/gs3-power,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/gac/gs3-power/15l-gs/178328
+GAC,SUV,GS3 POWER GB,1.5T,,MT,2024,gs3 power gb,gac,https://www.autocosmos.cl/catalogo/vigente/gac/gs3-power,15t,nan,mt,https://www.autocosmos.cl/catalogo/2024/gac/gs3-power/15l-gb/177222
+GAC,SUV,GS3 POWER GS,1.5T,,MT,2024,gs3 power gs,gac,https://www.autocosmos.cl/catalogo/vigente/gac/gs3-power,15t,nan,mt,https://www.autocosmos.cl/catalogo/2024/gac/gs3-power/15l-gs/178328
+GAC,SUV,GS4 POWER GB,1.5T,,AT,2024,gs4 power gb,gac,https://www.autocosmos.cl/catalogo/vigente/gac/gs4-power,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/gac/gs4-power/15l-gb/177219
+GAC,SUV,GS4 POWER GE,1.5T,,AT,2024,gs4 power ge,gac,https://www.autocosmos.cl/catalogo/vigente/gac/gs4-power,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/gac/gs4-power/15l-gb/177219
+GAC,SUV,GS4 POWER GL,1.5T,,AT,2024,gs4 power gl,gac,https://www.autocosmos.cl/catalogo/vigente/gac/gs4-power,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/gac/gs4-power/15l-gb/177219
+GAC,SUV,GS4 POWER GB,1.5T,,MT,2024,gs4 power gb,gac,https://www.autocosmos.cl/catalogo/vigente/gac/gs4-power,15t,nan,mt,https://www.autocosmos.cl/catalogo/2024/gac/gs4-power/15l-gb/177219
+GAC,SUV,GS8 GL,2.0T,2WD,AT,2024,gs8 gl,gac,https://www.autocosmos.cl/catalogo/vigente/gac/gs8,20t,2wd,at,https://www.autocosmos.cl/catalogo/2024/gac/gs8/gl/177224
+GAC,SUV,GS8 GT,2.0T,2WD,AT,2024,gs8 gt,gac,https://www.autocosmos.cl/catalogo/vigente/gac/gs8,20t,2wd,at,https://www.autocosmos.cl/catalogo/2024/gac/gs8/gt/177225
+GAC,SUV,GS8 GT,2.0T,4WD,AT,2024,gs8 gt,gac,https://www.autocosmos.cl/catalogo/vigente/gac/gs8,20t,4wd,at,https://www.autocosmos.cl/catalogo/2024/gac/gs8/gt/177225
+GAC,SUV,GS8 GX,2.0T,4WD,AT,2024,gs8 gx,gac,https://www.autocosmos.cl/catalogo/vigente/gac/gs8,20t,4wd,at,https://www.autocosmos.cl/catalogo/2024/gac/gs8/gt/177225
+HAVAL,SUV,H6 ACTIVE,,2WD,AT,2024,h6 active,haval,https://www.autocosmos.cl/catalogo/vigente/haval/h6,nan,2wd,at,https://www.autocosmos.cl/catalogo/2024/haval/h6/20t-active-aut/177257
+HAVAL,SUV,H6 DELUXE,,2WD,AT,2024,h6 deluxe,haval,https://www.autocosmos.cl/catalogo/vigente/haval/h6,nan,2wd,at,https://www.autocosmos.cl/catalogo/2024/haval/h6/20l-deluxe-aut/177259
+HAVAL,SUV,H6 DELUXE,,AWD,AT,2024,h6 deluxe,haval,https://www.autocosmos.cl/catalogo/vigente/haval/h6,nan,awd,at,https://www.autocosmos.cl/catalogo/2024/haval/h6/20l-deluxe-aut/177259
+HAVAL,SUV,H6 ELITE,,2WD,AT,2024,h6 elite,haval,https://www.autocosmos.cl/catalogo/vigente/haval/h6,nan,2wd,at,https://www.autocosmos.cl/catalogo/2024/haval/h6/20t-elite-aut/177258
+HAVAL,SUV,H6 GT DELUXE,,AWD,AT,2024,h6 gt deluxe,haval,https://www.autocosmos.cl/catalogo/vigente/haval/h6,nan,awd,at,https://www.autocosmos.cl/catalogo/2024/haval/h6/20l-deluxe-aut/177259
+HAVAL,SUV,H6 GT ELITE,,2WD,AT,2024,h6 gt elite,haval,https://www.autocosmos.cl/catalogo/vigente/haval/h6,nan,2wd,at,https://www.autocosmos.cl/catalogo/2024/haval/h6/20t-elite-aut/177258
+HAVAL,SUV,H6 HIBRIDA DELUXE,,2WD,AT,2024,h6 hibrida deluxe,haval,https://www.autocosmos.cl/catalogo/vigente/haval/h6,nan,2wd,at,https://www.autocosmos.cl/catalogo/2024/haval/h6/20l-deluxe-aut/177259
+HAVAL,SUV,H6 HIDRIDA ELITE,,2WD,AT,2024,h6 hidrida elite,haval,https://www.autocosmos.cl/catalogo/vigente/haval/h6,nan,2wd,at,https://www.autocosmos.cl/catalogo/2024/haval/h6/20t-elite-aut/177258
+HAVAL,SUV,JOLION ACTIVE,,,MT,2024,jolion active,haval,https://www.autocosmos.cl/catalogo/vigente/haval/jolion,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/haval/jolion/15t-active/177256
+HAVAL,SUV,JOLION DELUXE,,,AT,2024,jolion deluxe,haval,https://www.autocosmos.cl/catalogo/vigente/haval/jolion,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/haval/jolion/15t-deluxe-aut/178326
+HAVAL,SUV,JOLION ELITE,,,AT,2024,jolion elite,haval,https://www.autocosmos.cl/catalogo/vigente/haval/jolion,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/haval/jolion/15t-elite/177267
+HAVAL,SUV,JOLION ELITE,,,MT,2024,jolion elite,haval,https://www.autocosmos.cl/catalogo/vigente/haval/jolion,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/haval/jolion/15t-elite/177267
+HAVAL,SUV,JOLION HIBRIDO DELUXE,,2WD,AT,2024,jolion hibrido deluxe,haval,https://www.autocosmos.cl/catalogo/vigente/haval/jolion,nan,2wd,at,https://www.autocosmos.cl/catalogo/2024/haval/jolion/15t-deluxe-aut/178326
+HAVAL,SUV,JOLION HIBRIDO ELITE,,2WD,AT,2024,jolion hibrido elite,haval,https://www.autocosmos.cl/catalogo/vigente/haval/jolion,nan,2wd,at,https://www.autocosmos.cl/catalogo/2024/haval/jolion/15t-elite/177267
+HYUNDAI,SUV,CRETA GRAND SU2I VALUE,2.0,,AT,2024,creta grand su2i value,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/creta,20,nan,at,https://www.autocosmos.cl/catalogo/2024/hyundai/creta/15l-plus/177291
+HYUNDAI,SUV,CRETA GRAND SU2I PLUS,2.0,,MT,2024,creta grand su2i plus,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/creta,20,nan,mt,https://www.autocosmos.cl/catalogo/2024/hyundai/creta/15l-plus/177291
+HYUNDAI,SUV,CRETA SU2ID DESIGN,1.5,,CVT,2024,creta su2id design,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/creta,15,nan,cvt,https://www.autocosmos.cl/catalogo/2024/hyundai/creta/15l-design/178316
+HYUNDAI,SUV,CRETA SU2ID PLUS,1.5,,CVT,2024,creta su2id plus,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/creta,15,nan,cvt,https://www.autocosmos.cl/catalogo/2024/hyundai/creta/15l-plus/177291
+HYUNDAI,SUV,CRETA SU2ID PREMIUM,1.5,,CVT,2024,creta su2id premium,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/creta,15,nan,cvt,https://www.autocosmos.cl/catalogo/2024/hyundai/creta/15l-premium-cvt/178318
+HYUNDAI,SUV,CRETA SU2ID GO,1.5,,MT,2024,creta su2id go,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/creta,15,nan,mt,https://www.autocosmos.cl/catalogo/2024/hyundai/creta/15l-go/178314
+HYUNDAI,SUV,CRETA SU2ID DESIGN,1.5,,MT,2024,creta su2id design,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/creta,15,nan,mt,https://www.autocosmos.cl/catalogo/2024/hyundai/creta/15l-design/178316
+HYUNDAI,SUV,CRETA SU2ID PLUS,1.5,,MT,2024,creta su2id plus,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/creta,15,nan,mt,https://www.autocosmos.cl/catalogo/2024/hyundai/creta/15l-plus/177291
+HYUNDAI,SUV,IONIQ 5 NE EV LIMITED,,AWD,AT,2024,ioniq 5 ne ev limited,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/ioniq-5,nan,awd,at,https://www.autocosmos.cl/catalogo/2024/hyundai/ioniq-5/limited-awd/177341
+HYUNDAI,SUV,IONIQ 5 NE EV LIMITED,,,AT,2024,ioniq 5 ne ev limited,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/ioniq-5,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/hyundai/ioniq-5/limited/177340
+HYUNDAI,SUV,IONIQ 5 NE EV PREMIUM,,,AT,2024,ioniq 5 ne ev premium,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/ioniq-5,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/hyundai/ioniq-5/premium/177339
+HYUNDAI,SUV,KONA OS EV PREMIUM,,,AT,2024,kona os ev premium,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/kona,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/hyundai/kona/20l-plus-cvt/178546
+HYUNDAI,SUV,PALISADE LX2 PREMIUM FL,3.5,AWD,AT,2024,palisade lx2 premium fl,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/palisade,35,awd,at,https://www.autocosmos.cl/catalogo/2024/hyundai/palisade/35l-lx-premium-awd-aut/177336
+HYUNDAI,SUV,SANTA FE MX5 GDI DESIGN,2.5,,AT,2024,santa fe mx5 gdi design,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/santa-fe,25,nan,at,https://www.autocosmos.cl/catalogo/2025/hyundai/santa-fe/25l-design-aut/178533
+HYUNDAI,SUV,SANTA FE MX5 GDI PLUS,2.5,,AT,2024,santa fe mx5 gdi plus,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/santa-fe,25,nan,at,https://www.autocosmos.cl/catalogo/2025/hyundai/santa-fe/25l-plus-aut/178529
+HYUNDAI,SUV,SANTA FE MX5 GDI CALLIGRAPHY,2.5T,,AT,2024,santa fe mx5 gdi calligraphy,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/santa-fe,25t,nan,at,https://www.autocosmos.cl/catalogo/2025/hyundai/santa-fe/25t-calligraphy-awd-aut/178537
+HYUNDAI,SUV,SANTA FE MX5 GDI LIMITED,2.5T,,AT,2024,santa fe mx5 gdi limited,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/santa-fe,25t,nan,at,https://www.autocosmos.cl/catalogo/2025/hyundai/santa-fe/25t-limited-awd-aut/178536
+HYUNDAI,SUV,SANTA FE TM VALUE FL,2.5,,AT,2024,santa fe tm value fl,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/santa-fe,25,nan,at,https://www.autocosmos.cl/catalogo/2025/hyundai/santa-fe/25l-plus-aut/178529
+HYUNDAI,SUV,TUCSON NX4 LIMITED,1.6,4WD,AT,2024,tucson nx4 limited,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/tucson,16,4wd,at,https://www.autocosmos.cl/catalogo/2024/hyundai/tucson/nx4-16t-limited-awd-aut/178523
+HYUNDAI,SUV,TUCSON NX4 PLUS,1.6,,AT,2024,tucson nx4 plus,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/tucson,16,nan,at,https://www.autocosmos.cl/catalogo/2024/hyundai/tucson/nx4-20l-plus-aut/178516
+HYUNDAI,SUV,TUCSON NX4 HEV LIMITED,1.6,,AT,2024,tucson nx4 hev limited,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/tucson,16,nan,at,https://www.autocosmos.cl/catalogo/2024/hyundai/tucson/nx4-16t-limited-awd-aut/178523
+HYUNDAI,SUV,TUCSON NX4 HEV VALUE,1.6,,AT,2024,tucson nx4 hev value,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/tucson,16,nan,at,https://www.autocosmos.cl/catalogo/2024/hyundai/tucson/nx4-20l-go/178515
+HYUNDAI,SUV,TUCSON NX4 PLUS,2.0,4WD,AT,2024,tucson nx4 plus,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/tucson,20,4wd,at,https://www.autocosmos.cl/catalogo/2024/hyundai/tucson/nx4-20l-plus-aut/178516
+HYUNDAI,SUV,TUCSON NX4 PLUS,2.0,,AT,2024,tucson nx4 plus,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/tucson,20,nan,at,https://www.autocosmos.cl/catalogo/2024/hyundai/tucson/nx4-20l-plus-aut/178516
+HYUNDAI,SUV,TUCSON NX4 VALUE,2.0,,AT,2024,tucson nx4 value,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/tucson,20,nan,at,https://www.autocosmos.cl/catalogo/2024/hyundai/tucson/nx4-20l-go/178515
+HYUNDAI,SUV,TUCSON NX4 PLUS,2.0,,MT,2024,tucson nx4 plus,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/tucson,20,nan,mt,https://www.autocosmos.cl/catalogo/2024/hyundai/tucson/nx4-20l-plus-aut/178516
+HYUNDAI,SUV,VENUE QX VALUE,1.6,,AT,2024,venue qx value,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/venue,16,nan,at,https://www.autocosmos.cl/catalogo/2024/hyundai/venue/16l-plus/177302
+HYUNDAI,SUV,VENUE QX PLUS,1.6,,MT,2024,venue qx plus,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/venue,16,nan,mt,https://www.autocosmos.cl/catalogo/2024/hyundai/venue/16l-plus/177302
+HYUNDAI,SUV,VENUE QX VALUE,1.6,,MT,2024,venue qx value,hyundai,https://www.autocosmos.cl/catalogo/vigente/hyundai/venue,16,nan,mt,https://www.autocosmos.cl/catalogo/2024/hyundai/venue/16l-plus/177302
+JAC,SUV,JS2 COMFORT,,,MT,2024,js2 comfort,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js2,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/jac/js2/15l-comfort-aut/177355
+JAC,SUV,JS2 LUXURY,,,AT,2024,js2 luxury,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js2,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/jac/js2/15l-luxury/177356
+JAC,SUV,JS2 LUXURY,,,MT,2024,js2 luxury,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js2,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/jac/js2/15l-luxury/177356
+JAC,SUV,JS3 SE LUXURY,1.6,,MT,2024,js3 se luxury,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js3,16,nan,mt,https://www.autocosmos.cl/catalogo/2024/jac/js3/16l-luxury/177350
+JAC,SUV,JS3 XE ADVANCE,1.6,,AT,2024,js3 xe advance,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js3,16,nan,at,https://www.autocosmos.cl/catalogo/2024/jac/js3/16l-advance/177351
+JAC,SUV,JS3 XE ADVANCE,1.6,,MT,2024,js3 xe advance,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js3,16,nan,mt,https://www.autocosmos.cl/catalogo/2024/jac/js3/16l-advance/177351
+JAC,SUV,JS3 XE LUXURY,1.6,,AT,2024,js3 xe luxury,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js3,16,nan,at,https://www.autocosmos.cl/catalogo/2024/jac/js3/16l-luxury/177350
+JAC,SUV,JS4 ADVANCE,1.5T,,AT,2024,js4 advance,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js4,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/jac/js4/15t-advance-aut/177364
+JAC,SUV,JS4 ADVANCE BICOLOR,1.5T,,AT,2024,js4 advance bicolor,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js4,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/jac/js4/15t-advance-aut-bicolor/177365
+JAC,SUV,JS4 COMFORT,1.6,,MT,2024,js4 comfort,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js4,16,nan,mt,https://www.autocosmos.cl/catalogo/2024/jac/js4/16l-comfort/177358
+JAC,SUV,JS4 COMFORT BICOLOR,1.6,,MT,2024,js4 comfort bicolor,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js4,16,nan,mt,https://www.autocosmos.cl/catalogo/2024/jac/js4/16l-comfort-bicolor/177359
+JAC,SUV,JS4 LUXURY,1.5T,,AT,2024,js4 luxury,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js4,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/jac/js4/15t-luxury/177360
+JAC,SUV,JS4 LUXURY,1.5T,,MT,2024,js4 luxury,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js4,15t,nan,mt,https://www.autocosmos.cl/catalogo/2024/jac/js4/15t-luxury/177360
+JAC,SUV,JS4 LUXURY BICOLOR,1.5T,,AT,2024,js4 luxury bicolor,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js4,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/jac/js4/15t-luxury-bicolor/177361
+JAC,SUV,JS4 LUXURY BICOLOR,1.5T,,MT,2024,js4 luxury bicolor,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js4,15t,nan,mt,https://www.autocosmos.cl/catalogo/2024/jac/js4/15t-luxury-bicolor/177361
+JAC,SUV,JS6 ADVANCE,,,AT,2024,js6 advance,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js6,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/jac/js6/advance-xe-dct/177368
+JAC,SUV,JS6 COMFORT,,,AT,2024,js6 comfort,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js6,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/jac/js6/comfort-ce-dct/177366
+JAC,SUV,JS6 LUXURY,,,AT,2024,js6 luxury,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js6,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/jac/js6/luxury-se-dct/177367
+JAC,SUV,JS8 ADVANCE XE,,,AT,2024,js8 advance xe,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js8,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/jac/js8/15l-advance-xe-dct/177377
+JAC,SUV,JS8 COMFORT CE,,,MT,2024,js8 comfort ce,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js8,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/jac/js8/15l-comfort-ce/177348
+JAC,SUV,JS8 LUXURY SE,,,AT,2024,js8 luxury se,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js8,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/jac/js8/15l-luxury-se/177375
+JAC,SUV,JS8 LUXURY SE,,,MT,2024,js8 luxury se,jac,https://www.autocosmos.cl/catalogo/vigente/jac/js8,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/jac/js8/15l-luxury-se/177375
+JEEP,SUV,COMMANDER LIMITED,1.3,4X2,AT,2024,commander limited,jeep,https://www.autocosmos.cl/catalogo/vigente/jeep/commander,13,4x2,at,https://www.autocosmos.cl/catalogo/2024/jeep/commander/13l-limited-4x2/178311
+JEEP,SUV,COMMANDER LIMITED,2.0,4X4,AT,2024,commander limited,jeep,https://www.autocosmos.cl/catalogo/vigente/jeep/commander,20,4x4,at,https://www.autocosmos.cl/catalogo/2024/jeep/commander/20l-overland-4x4/177410
+JEEP,SUV,COMMANDER LIMITED G,2.0,4X4,AT,2024,commander limited g,jeep,https://www.autocosmos.cl/catalogo/vigente/jeep/commander,20,4x4,at,https://www.autocosmos.cl/catalogo/2024/jeep/commander/20l-overland-4x4/177410
+JEEP,SUV,COMMANDER OVERLAND,1.3,4X2,AT,2024,commander overland,jeep,https://www.autocosmos.cl/catalogo/vigente/jeep/commander,13,4x2,at,https://www.autocosmos.cl/catalogo/2024/jeep/commander/13l-overland-4x2/177416
+JEEP,SUV,COMMANDER OVERLAND G,2.0,4X4,AT,2024,commander overland g,jeep,https://www.autocosmos.cl/catalogo/vigente/jeep/commander,20,4x4,at,https://www.autocosmos.cl/catalogo/2024/jeep/commander/20l-overland-4x4/177410
+JEEP,SUV,COMPASS LIMITED,,4X2,AT,2024,compass limited,jeep,https://www.autocosmos.cl/catalogo/vigente/jeep/compass,nan,4x2,at,https://www.autocosmos.cl/catalogo/2024/jeep/compass/13l-limited/177414
+JEEP,SUV,COMPASS LONGITUDE,,4X2,AT,2024,compass longitude,jeep,https://www.autocosmos.cl/catalogo/vigente/jeep/compass,nan,4x2,at,https://www.autocosmos.cl/catalogo/2024/jeep/compass/13l-longitude/177413
+JEEP,SUV,COMPASS SPORT,,4X2,AT,2024,compass sport,jeep,https://www.autocosmos.cl/catalogo/vigente/jeep/compass,nan,4x2,at,https://www.autocosmos.cl/catalogo/2024/jeep/compass/13l-sport/177412
+JEEP,SUV,GRAND CHEROKEE L SUMMIT 3ROW,3.6L,,AT,2024,grand cherokee l summit 3row,jeep,https://www.autocosmos.cl/catalogo/vigente/jeep/grand-cherokee,36l,nan,at,https://www.autocosmos.cl/catalogo/2024/jeep/grand-cherokee/36l-limited/177420
+JEEP,SUV,RENEGADE LONGITUDE,1.3,,AT,2024,renegade longitude,jeep,https://www.autocosmos.cl/catalogo/vigente/jeep/renegade,13,nan,at,https://www.autocosmos.cl/catalogo/2024/jeep/renegade/13l-longitude/177418
+JEEP,SUV,RENEGADE LONGITUDE X,1.3,,AT,2024,renegade longitude x,jeep,https://www.autocosmos.cl/catalogo/vigente/jeep/renegade,13,nan,at,https://www.autocosmos.cl/catalogo/2024/jeep/renegade/13l-longitude-x/177419
+JEEP,SUV,RENEGADE SPORT,1.3,,AT,2024,renegade sport,jeep,https://www.autocosmos.cl/catalogo/vigente/jeep/renegade,13,nan,at,https://www.autocosmos.cl/catalogo/2024/jeep/renegade/13l-sport/177417
+JEEP,SUV,WRANGLER UNLIMITED RUBICON,3.6L,,AT,2024,wrangler unlimited rubicon,jeep,https://www.autocosmos.cl/catalogo/vigente/jeep/wrangler,36l,nan,at,https://www.autocosmos.cl/catalogo/2024/jeep/wrangler/36l-unlimited-rubicon/177408
+JETOUR,SUV,DASHING TURBO LUX,1.5L,,MT,2024,dashing turbo lux,jetour,https://www.autocosmos.cl/catalogo/vigente/jetour/dashing,15l,nan,mt,https://www.autocosmos.cl/catalogo/2024/jetour/dashing/15-turbo-lux/177425
+JETOUR,SUV,DASHING TURBO LUX,1.5L,,AT,2024,dashing turbo lux,jetour,https://www.autocosmos.cl/catalogo/vigente/jetour/dashing,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/jetour/dashing/15-turbo-lux/177425
+JETOUR,SUV,DASHING TURBO GDI LIMITED,1.6L,,AT,2024,dashing turbo gdi limited,jetour,https://www.autocosmos.cl/catalogo/vigente/jetour/dashing,16l,nan,at,https://www.autocosmos.cl/catalogo/2024/jetour/dashing/15-turbo-limited-dct/177427
+JETOUR,SUV,X70 LUX,1.5T,,AT,2024,x70 lux,jetour,https://www.autocosmos.cl/catalogo/vigente/jetour/x70,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/jetour/x70/15l-gls/177422
+JETOUR,SUV,X70 LUX,1.5T,,MT,2024,x70 lux,jetour,https://www.autocosmos.cl/catalogo/vigente/jetour/x70,15t,nan,mt,https://www.autocosmos.cl/catalogo/2024/jetour/x70/15l-gls/177422
+JETOUR,SUV,X70 STD,1.5T,,AT,2024,x70 std,jetour,https://www.autocosmos.cl/catalogo/vigente/jetour/x70,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/jetour/x70/15l-gls/177422
+JETOUR,SUV,X70 STD,1.5T,,MT,2024,x70 std,jetour,https://www.autocosmos.cl/catalogo/vigente/jetour/x70,15t,nan,mt,https://www.autocosmos.cl/catalogo/2024/jetour/x70/15l-gls/177422
+JETOUR,SUV,X70 PLUS,1.5T,,AT,2024,x70 plus,jetour,https://www.autocosmos.cl/catalogo/vigente/jetour/x70-plus,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/jetour/x70-plus/15t/177424
+JETOUR,SUV,X70 PLUS,1.6T,,AT,2024,x70 plus,jetour,https://www.autocosmos.cl/catalogo/vigente/jetour/x70-plus,16t,nan,at,https://www.autocosmos.cl/catalogo/2024/jetour/x70-plus/15t/177424
+JETOUR,SUV,X90 PLUS GDI,2.0T,,AT,2024,x90 plus gdi,jetour,https://www.autocosmos.cl/catalogo/vigente/jetour/x90-plus,20t,nan,at,https://www.autocosmos.cl/catalogo/2024/jetour/x90-plus/20t/178310
+KAIYI,SUV,KYX3 LUX,,,MT,2024,kyx3 lux,kaiyi,https://www.autocosmos.cl/catalogo/vigente/kaiyi/x3,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/kaiyi/x3/15l-lux/177439
+KAIYI,SUV,KYX3 STD,,,MT,2024,kyx3 std,kaiyi,https://www.autocosmos.cl/catalogo/vigente/kaiyi/x3,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/kaiyi/x3/15l-std/177438
+KAIYI,SUV,KYX3 LUX,,,AT,2024,kyx3 lux,kaiyi,https://www.autocosmos.cl/catalogo/vigente/kaiyi/x3,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/kaiyi/x3/15l-lux/177439
+KAIYI,SUV,KYX3 PRO,1.5T,,AT,2024,kyx3 pro,kaiyi,https://www.autocosmos.cl/catalogo/vigente/kaiyi/x3,15t,nan,at,https://www.autocosmos.cl/catalogo/2024/kaiyi/x3/15l-std/177438
+KIA,SUV,CARENS EX TURBO-GDI 7P,1.4L,,7DCT,2024,carens ex turbogdi 7p,kia,https://www.autocosmos.cl/catalogo/vigente/kia/carens,14l,nan,7dct,https://www.autocosmos.cl/catalogo/2024/kia/carens/14l-ex-turbo/177476
+KIA,SUV,CARENS EX TURBO-GDI FULL 7P,1.4L,,7DCT,2024,carens ex turbogdi full 7p,kia,https://www.autocosmos.cl/catalogo/vigente/kia/carens,14l,nan,7dct,https://www.autocosmos.cl/catalogo/2024/kia/carens/14l-ex-turbo-full/177475
+KIA,SUV,CARENS LX 7P,1.5L,,6MT,2024,carens lx 7p,kia,https://www.autocosmos.cl/catalogo/vigente/kia/carens,15l,nan,6mt,https://www.autocosmos.cl/catalogo/2024/kia/carens/15l-lx/177474
+KIA,SUV,NIRO EV EX 64.8KWH FULL,,2WD,,2024,niro ev ex 648kwh full,kia,,nan,2wd,nan,
+KIA,SUV,NIRO EV LX 64.8KWH,,2WD,,2024,niro ev lx 648kwh,kia,,nan,2wd,nan,
+KIA,SUV,NIRO EV6 GT-LINE 77.4KWH,,AWD,,2024,niro ev6 gtline 774kwh,kia,https://www.autocosmos.cl/catalogo/vigente/kia/ev6,nan,awd,nan,https://www.autocosmos.cl/catalogo/2024/kia/ev6/gt-line/178369
+KIA,SUV,NIRO EV9 GT-LINE 99.8KWH 6P1,,AWD,,2024,niro ev9 gtline 998kwh 6p1,kia,https://www.autocosmos.cl/catalogo/vigente/kia/ev9,nan,awd,nan,https://www.autocosmos.cl/catalogo/2024/kia/ev9/gt-line-7p/178373
+KIA,SUV,NIRO EV9 GT-LINE 99.8KWH 6P2,,AWD,,2024,niro ev9 gtline 998kwh 6p2,kia,https://www.autocosmos.cl/catalogo/vigente/kia/ev9,nan,awd,nan,https://www.autocosmos.cl/catalogo/2024/kia/ev9/gt-line-7p/178373
+KIA,SUV,NIRO EV9 GT-LINE 99.8KWH 6P3,,AWD,,2024,niro ev9 gtline 998kwh 6p3,kia,https://www.autocosmos.cl/catalogo/vigente/kia/ev9,nan,awd,nan,https://www.autocosmos.cl/catalogo/2024/kia/ev9/gt-line-7p/178373
+KIA,SUV,NIRO EV9 GT-LINE 99.8KWH 7P,,AWD,,2024,niro ev9 gtline 998kwh 7p,kia,https://www.autocosmos.cl/catalogo/vigente/kia/ev9,nan,awd,nan,https://www.autocosmos.cl/catalogo/2024/kia/ev9/gt-line-7p/178373
+KIA,SUV,SELTOS EX TURBO,1.4L,,7DCT,2024,seltos ex turbo,kia,https://www.autocosmos.cl/catalogo/vigente/kia/seltos,14l,nan,7dct,https://www.autocosmos.cl/catalogo/2024/kia/seltos/14l-ex-dct-turbo/177497
+KIA,SUV,SELTOS EX TURBO FULL,1.4L,,7DCT,2024,seltos ex turbo full,kia,https://www.autocosmos.cl/catalogo/vigente/kia/seltos,14l,nan,7dct,https://www.autocosmos.cl/catalogo/2024/kia/seltos/14l-ex-dct-turbo-full/177498
+KIA,SUV,SELTOS EX,1.5L,,6MT,2024,seltos ex,kia,https://www.autocosmos.cl/catalogo/vigente/kia/seltos,15l,nan,6mt,https://www.autocosmos.cl/catalogo/2024/kia/seltos/15l-ex/177495
+KIA,SUV,SELTOS EX IVT,1.5L,,,2024,seltos ex ivt,kia,https://www.autocosmos.cl/catalogo/vigente/kia/seltos,15l,nan,nan,https://www.autocosmos.cl/catalogo/2024/kia/seltos/15l-ex-ivt/177496
+KIA,SUV,SONET EX AC RI,1.5L,,6MT,2024,sonet ex ac ri,kia,https://www.autocosmos.cl/catalogo/vigente/kia/sonet,15l,nan,6mt,https://www.autocosmos.cl/catalogo/2024/kia/sonet/15l-ex/178497
+KIA,SUV,SONET EX RI FULL,1.5L,,6MT,2024,sonet ex ri full,kia,https://www.autocosmos.cl/catalogo/vigente/kia/sonet,15l,nan,6mt,https://www.autocosmos.cl/catalogo/2024/kia/sonet/15l-ex-full/178498
+KIA,SUV,SONET EX IVT ACC PLUS,1.5L,,,2024,sonet ex ivt acc plus,kia,https://www.autocosmos.cl/catalogo/vigente/kia/sonet,15l,nan,nan,https://www.autocosmos.cl/catalogo/2024/kia/sonet/15l-ex/178497
+KIA,SUV,SONET EX IVT FULL,1.5L,,,2024,sonet ex ivt full,kia,https://www.autocosmos.cl/catalogo/vigente/kia/sonet,15l,nan,nan,https://www.autocosmos.cl/catalogo/2024/kia/sonet/15l-ex-full/178498
+KIA,SUV,SONET EX IVT IR FULL,1.5L,,,2024,sonet ex ivt ir full,kia,https://www.autocosmos.cl/catalogo/vigente/kia/sonet,15l,nan,nan,https://www.autocosmos.cl/catalogo/2024/kia/sonet/15l-ex-full/178498
+KIA,SUV,SORENTO EX DSL,2.2L,2WD,8DCT,2024,sorento ex dsl,kia,https://www.autocosmos.cl/catalogo/vigente/kia/sorento,22l,2wd,8dct,https://www.autocosmos.cl/catalogo/2024/kia/sorento/22l-ex-dsl-2wd-aut/178392
+KIA,SUV,SORENTO EX GSL,2.5L,2WD,6AT,2024,sorento ex gsl,kia,https://www.autocosmos.cl/catalogo/vigente/kia/sorento,25l,2wd,6at,https://www.autocosmos.cl/catalogo/2024/kia/sorento/25l-ex-gsl-2wd-aut/177458
+KIA,SUV,SORENTO EX GSL FULL,2.5L,2WD,6AT,2024,sorento ex gsl full,kia,https://www.autocosmos.cl/catalogo/vigente/kia/sorento,25l,2wd,6at,https://www.autocosmos.cl/catalogo/2024/kia/sorento/25l-ex-gsl-awd-full-aut/177459
+KIA,SUV,SORENTO EX GSL FULL,2.5L,AWD,6AT,2024,sorento ex gsl full,kia,https://www.autocosmos.cl/catalogo/vigente/kia/sorento,25l,awd,6at,https://www.autocosmos.cl/catalogo/2024/kia/sorento/25l-ex-gsl-awd-full-aut/177459
+KIA,SUV,SPORTAGE EX TURBO-GDI GSL,1.6L,AWD,7DCT,2024,sportage ex turbogdi gsl,kia,https://www.autocosmos.cl/catalogo/vigente/kia/sportage,16l,awd,7dct,https://www.autocosmos.cl/catalogo/2024/kia/sportage/16l-ex-gsl-awd-turbo/177477
+KIA,SUV,SPORTAGE EX GSL,2.0L,,6AT,2024,sportage ex gsl,kia,https://www.autocosmos.cl/catalogo/vigente/kia/sportage,20l,nan,6at,https://www.autocosmos.cl/catalogo/2024/kia/sportage/20l-ex-gsl/177468
+KIA,SUV,SPORTAGE EX GSL BS,2.0L,,6AT,2024,sportage ex gsl bs,kia,https://www.autocosmos.cl/catalogo/vigente/kia/sportage,20l,nan,6at,https://www.autocosmos.cl/catalogo/2024/kia/sportage/20l-ex-gsl/177468
+KIA,SUV,SPORTAGE EX GSL,2.0L,,6MT,2024,sportage ex gsl,kia,https://www.autocosmos.cl/catalogo/vigente/kia/sportage,20l,nan,6mt,https://www.autocosmos.cl/catalogo/2024/kia/sportage/20l-ex-gsl/177468
+KIA,SUV,SPORTAGE EX DSL,2.0L,AWD,8AT,2024,sportage ex dsl,kia,https://www.autocosmos.cl/catalogo/vigente/kia/sportage,20l,awd,8at,https://www.autocosmos.cl/catalogo/2024/kia/sportage/20l-ex-dsl-awd-aut/177473
+KIA,SUV,SPORTAGE EX DSL BS,2.0L,,8AT,2024,sportage ex dsl bs,kia,https://www.autocosmos.cl/catalogo/vigente/kia/sportage,20l,nan,8at,https://www.autocosmos.cl/catalogo/2024/kia/sportage/20l-ex-dsl-aut/178391
+KIA,SUV,SPROTAGE EX GSL,2.0L,AWD,6AT,2024,sprotage ex gsl,kia,,20l,awd,6at,
+KIA,SUV,SPROTAGE EX DSL,2.0L,,8AT,2024,sprotage ex dsl,kia,,20l,nan,8at,
+MAHINDRA,SUV,XUV300 COMFORT,,,MT,2024,xuv300 comfort,mahindra,,nan,nan,mt,
+MAHINDRA,SUV,XUV300 ELITE,,,MT,2024,xuv300 elite,mahindra,,nan,nan,mt,
+MAHINDRA,SUV,XUV300 LUXURY,,,MT,2024,xuv300 luxury,mahindra,,nan,nan,mt,
+MAXUS,SUV,D60 ELITE,,4X2,AT,2024,d60 elite,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/d60,nan,4x2,at,https://www.autocosmos.cl/catalogo/2024/maxus/d60/elite/178576
+MAXUS,SUV,D60 LUXURY,,4X2,AT,2024,d60 luxury,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/d60,nan,4x2,at,https://www.autocosmos.cl/catalogo/2024/maxus/d60/luxury/178577
+MAXUS,SUV,D90 ELITE,,4X4,AT,2024,d90 elite,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/d90,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/maxus/d90/elite/178579
+MAXUS,SUV,D90 FLAGSHIP,,4X4,AT,2024,d90 flagship,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/d90,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/maxus/d90/flagship/178581
+MAXUS,SUV,D90 LUXURY,,4X4,AT,2024,d90 luxury,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/d90,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/maxus/d90/luxury/178580
+MAXUS,SUV,EUNIQ 6,,,AT,2024,euniq 6,maxus,https://www.autocosmos.cl/catalogo/vigente/maxus/euniq-6,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/maxus/euniq-6/euniq/177583
+MAXUS,SUV,G90 ELITE,,,AT,2024,g90 elite,maxus,,nan,nan,at,
+MAXUS,SUV,G90 LUXURY,,,AT,2024,g90 luxury,maxus,,nan,nan,at,
+MG,SUV,3 STD,1.5,,AT,2024,3 std,mg,https://www.autocosmos.cl/catalogo/vigente/mg/3,15,nan,at,https://www.autocosmos.cl/catalogo/2024/mg/3/15l-std-aut/177710
+MG,SUV,HS COM,1.5T,,,2024,hs com,mg,https://www.autocosmos.cl/catalogo/vigente/mg/hs,15t,nan,nan,https://www.autocosmos.cl/catalogo/2024/mg/hs/15l-com/177717
+MG,SUV,HS DLX,1.5T,,DCT,2024,hs dlx,mg,https://www.autocosmos.cl/catalogo/vigente/mg/hs,15t,nan,dct,https://www.autocosmos.cl/catalogo/2024/mg/hs/15l-dlx-dct/177718
+MG,SUV,HS TROPHY,1.5T,,DCT,2024,hs trophy,mg,https://www.autocosmos.cl/catalogo/vigente/mg/hs,15t,nan,dct,https://www.autocosmos.cl/catalogo/2024/mg/hs/15l-com/177717
+MG,SUV,MARVEL R DLX,,,AT,2024,marvel r dlx,mg,https://www.autocosmos.cl/catalogo/vigente/mg/marvel-r,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/mg/marvel-r/dlx/177729
+MG,SUV,MG ZS COM,1.5L,,AT,2024,mg zs com,mg,https://www.autocosmos.cl/catalogo/vigente/mg/zs,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/mg/zs/15l-comfort/177721
+MG,SUV,MG ZS STD,1.5L,,AT,2024,mg zs std,mg,https://www.autocosmos.cl/catalogo/vigente/mg/zs,15l,nan,at,https://www.autocosmos.cl/catalogo/2024/mg/zs/15l-std/177723
+MG,SUV,ONE COM,1.5T,,CVT,2024,one com,mg,https://www.autocosmos.cl/catalogo/vigente/mg/one,15t,nan,cvt,https://www.autocosmos.cl/catalogo/2024/mg/one/15t-cvt/177730
+MG,SUV,ONE DLX,1.5T,,CVT,2024,one dlx,mg,https://www.autocosmos.cl/catalogo/vigente/mg/one,15t,nan,cvt,https://www.autocosmos.cl/catalogo/2024/mg/one/15t-cvt-dlx/177731
+MG,SUV,RX5 COM,1.5T,,,2024,rx5 com,mg,https://www.autocosmos.cl/catalogo/vigente/mg/5,15t,nan,nan,https://www.autocosmos.cl/catalogo/2024/mg/5/15l-com/177711
+MG,SUV,RX5 COM,1.5T,,DCT,2024,rx5 com,mg,https://www.autocosmos.cl/catalogo/vigente/mg/5,15t,nan,dct,https://www.autocosmos.cl/catalogo/2024/mg/5/15l-com/177711
+MG,SUV,RX5 DLX,1.5T,,DCT,2024,rx5 dlx,mg,https://www.autocosmos.cl/catalogo/vigente/mg/5,15t,nan,dct,https://www.autocosmos.cl/catalogo/2024/mg/5/15l-dlx/177713
+MG,SUV,ZS COM,1.5L,,,2024,zs com,mg,https://www.autocosmos.cl/catalogo/vigente/mg/zs,15l,nan,nan,https://www.autocosmos.cl/catalogo/2024/mg/zs/15l-comfort/177721
+MG,SUV,ZS STD,1.5L,,,2024,zs std,mg,https://www.autocosmos.cl/catalogo/vigente/mg/zs,15l,nan,nan,https://www.autocosmos.cl/catalogo/2024/mg/zs/15l-std/177723
+MG,SUV,ZS EV DLX,,,AT,2024,zs ev dlx,mg,https://www.autocosmos.cl/catalogo/vigente/mg/zs,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/mg/zs/15l-std/177723
+MG,SUV,ZX 6 TROPHY,1.3T,,AT,2024,zx 6 trophy,mg,https://www.autocosmos.cl/catalogo/vigente/mg/6,13t,nan,at,https://www.autocosmos.cl/catalogo/2024/mg/6/15l-com/177715
+MG,SUV,ZX COM,1.5L,,,2024,zx com,mg,https://www.autocosmos.cl/catalogo/vigente/mg/zx,15l,nan,nan,https://www.autocosmos.cl/catalogo/2024/mg/zx/15l--com/177725
+MG,SUV,ZX DLX,1.5L,,CVT,2024,zx dlx,mg,https://www.autocosmos.cl/catalogo/vigente/mg/zx,15l,nan,cvt,https://www.autocosmos.cl/catalogo/2024/mg/zx/15l-dlx/177726
+MG,SUV,ZX DLX,1.5L,,,2024,zx dlx,mg,https://www.autocosmos.cl/catalogo/vigente/mg/zx,15l,nan,nan,https://www.autocosmos.cl/catalogo/2024/mg/zx/15l-dlx/177726
+MITSUBISHI,SUV,ASX GL,1.6L,4X2,MT,2024,asx gl,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/asx,16l,4x2,mt,https://www.autocosmos.cl/catalogo/2024/mitsubishi/asx/16l-gl-4x2/177758
+MITSUBISHI,SUV,ASX GLS,1.6L,4X2,MT,2024,asx gls,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/asx,16l,4x2,mt,https://www.autocosmos.cl/catalogo/2024/mitsubishi/asx/16l-gl-4x2/177758
+MITSUBISHI,SUV,ASX GLS,2.0L,4X2,AT,2024,asx gls,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/asx,20l,4x2,at,https://www.autocosmos.cl/catalogo/2024/mitsubishi/asx/20l-gls-4x2-aut/177760
+MITSUBISHI,SUV,ECLIPSE CROSS RS,1.5,4X2,AT,2024,eclipse cross rs,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/eclipse-cross,15,4x2,at,https://www.autocosmos.cl/catalogo/2024/mitsubishi/eclipse-cross/15l-rx-4x2/177756
+MITSUBISHI,SUV,ECLIPSE CROSS RX,1.5,4X2,AT,2024,eclipse cross rx,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/eclipse-cross,15,4x2,at,https://www.autocosmos.cl/catalogo/2024/mitsubishi/eclipse-cross/15l-rx-4x2/177756
+MITSUBISHI,SUV,MONTERO SPORT,3.0,2WD,AT,2024,montero sport,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/montero-sport,30,2wd,at,https://www.autocosmos.cl/catalogo/2024/mitsubishi/montero-sport/24l-4x2/178287
+MITSUBISHI,SUV,MONTERO SPORT,3.0,4WD,AT,2024,montero sport,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/montero-sport,30,4wd,at,https://www.autocosmos.cl/catalogo/2024/mitsubishi/montero-sport/24l-4x2/178287
+MITSUBISHI,SUV,MONTERO SPORT LIMITED,3.0,4WD,AT,2024,montero sport limited,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/montero-sport,30,4wd,at,https://www.autocosmos.cl/catalogo/2024/mitsubishi/montero-sport/24l-4x2/178287
+MITSUBISHI,SUV,OUTLANDER GL,,4X2,AT,2024,outlander gl,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/outlander,nan,4x2,at,https://www.autocosmos.cl/catalogo/2024/mitsubishi/outlander/25l-gl-4x2-5-pas/177768
+MITSUBISHI,SUV,OUTLANDER GLS,,4X4,AT,2024,outlander gls,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/outlander,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/mitsubishi/outlander/25l-gls-4x4-7-pas/177770
+MITSUBISHI,SUV,OUTLANDER GLS LIMITED,,4X4,AT,2024,outlander gls limited,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/outlander,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/mitsubishi/outlander/25l-gls-4x4-7-pas-limited/177771
+MITSUBISHI,SUV,OUTLANDER GLX,,4X2,AT,2024,outlander glx,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/outlander,nan,4x2,at,https://www.autocosmos.cl/catalogo/2024/mitsubishi/outlander/25l-glx-4x2-7-pas/177769
+MITSUBISHI,SUV,XPANDER CROSS,,,AT,2024,xpander cross,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/xpander-cross,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/mitsubishi/xpander-cross/15l/177767
+MITSUBISHI,SUV,XPANDER GL,,,MT,2024,xpander gl,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/xpander,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/mitsubishi/xpander/gl/177765
+MITSUBISHI,SUV,XPANDER GLX,,,AT,2024,xpander glx,mitsubishi,https://www.autocosmos.cl/catalogo/vigente/mitsubishi/xpander,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/mitsubishi/xpander/glx/177766
+NISSAN,SUV,KICKS ADVANCE,,,CVT,2024,kicks advance,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/kicks,nan,nan,cvt,https://www.autocosmos.cl/catalogo/2024/nissan/kicks/16l-advance/177788
+NISSAN,SUV,KICKS ADVANCE,,,MT,2024,kicks advance,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/kicks,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/nissan/kicks/16l-advance/177788
+NISSAN,SUV,KICKS EXCLUSIVE,,,CVT,2024,kicks exclusive,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/kicks,nan,nan,cvt,https://www.autocosmos.cl/catalogo/2024/nissan/kicks/16l-exclusive-cvt/177790
+NISSAN,SUV,KICKS SENSE,,,MT,2024,kicks sense,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/kicks,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/nissan/kicks/16l-sense/177787
+NISSAN,SUV,PATHFINDER ADVANCE,,2WD,AT,2024,pathfinder advance,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/pathfinder,nan,2wd,at,https://www.autocosmos.cl/catalogo/2024/nissan/pathfinder/35l-advance-4x2/177778
+NISSAN,SUV,PATHFINDER ADVANCE,,4WD,AT,2024,pathfinder advance,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/pathfinder,nan,4wd,at,https://www.autocosmos.cl/catalogo/2024/nissan/pathfinder/35l-advance-4x2/177778
+NISSAN,SUV,PATHFINDER EXCLUSIVE,,4WD,AT,2024,pathfinder exclusive,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/pathfinder,nan,4wd,at,https://www.autocosmos.cl/catalogo/2024/nissan/pathfinder/35l-exclusive-4x4/177780
+NISSAN,SUV,PATHFINDER SENSE,,2WD,AT,2024,pathfinder sense,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/pathfinder,nan,2wd,at,https://www.autocosmos.cl/catalogo/2024/nissan/pathfinder/35l-sense-4x2/177777
+NISSAN,SUV,QASHQAI ADVANCE,,,CVT,2024,qashqai advance,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/qashqai,nan,nan,cvt,https://www.autocosmos.cl/catalogo/2024/nissan/qashqai/advance/177792
+NISSAN,SUV,QASHQAI ADVANCE PLUS,,,CVT,2024,qashqai advance plus,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/qashqai,nan,nan,cvt,https://www.autocosmos.cl/catalogo/2024/nissan/qashqai/advance/177792
+NISSAN,SUV,QASHQAI ADVANCE,,,MT,2024,qashqai advance,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/qashqai,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/nissan/qashqai/advance/177792
+NISSAN,SUV,QASHQAI EXCLUSIVE,,4WD,CVT,2024,qashqai exclusive,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/qashqai,nan,4wd,cvt,https://www.autocosmos.cl/catalogo/2024/nissan/qashqai/exclusive-cvt-4x4/177795
+NISSAN,SUV,QASHQAI SENSE,,,MT,2024,qashqai sense,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/qashqai,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/nissan/qashqai/sense/177791
+NISSAN,SUV,X-TRAIL ADVANCE 3 ROW E-POWER,,AWD,,2024,xtrail advance 3 row epower,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/x-trail,nan,awd,nan,https://www.autocosmos.cl/catalogo/2024/nissan/x-trail/25l-advance-3row/177775
+NISSAN,SUV,X-TRAIL ADVANCE 3ROW,,,CVT,2024,xtrail advance 3row,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/x-trail,nan,nan,cvt,https://www.autocosmos.cl/catalogo/2024/nissan/x-trail/25l-advance-3row/177775
+NISSAN,SUV,X-TRAIL EXCLUSIVE 3 ROW E-POWER,,AWD,,2024,xtrail exclusive 3 row epower,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/x-trail,nan,awd,nan,https://www.autocosmos.cl/catalogo/2024/nissan/x-trail/25l-exclusive-3row-4x4/177776
+NISSAN,SUV,X-TRAIL EXCLUSIVE 3ROW -,,AWD,CVT,2024,xtrail exclusive 3row,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/x-trail,nan,awd,cvt,https://www.autocosmos.cl/catalogo/2024/nissan/x-trail/25l-exclusive-3row-4x4/177776
+NISSAN,SUV,X-TRAIL SEMSE 3ROW,,,CVT,2024,xtrail semse 3row,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/x-trail,nan,nan,cvt,https://www.autocosmos.cl/catalogo/2024/nissan/x-trail/25l-sense-3row/177774
+NISSAN,SUV,X-TRAIL SENSE 2ROW,,,CVT,2024,xtrail sense 2row,nissan,https://www.autocosmos.cl/catalogo/vigente/nissan/x-trail,nan,nan,cvt,https://www.autocosmos.cl/catalogo/2024/nissan/x-trail/25l-sense-2row/177773
+OPEL,SUV,CROSSLAND EDITION AT6 E6.4,1.2T,,,2024,crossland edition at6 e64,opel,https://www.autocosmos.cl/catalogo/vigente/opel/crossland,12t,nan,nan,https://www.autocosmos.cl/catalogo/2024/opel/crossland/12l-edition-aut/177816
+OPEL,SUV,CROSSLAND EDITION MT6,1.2T,,,2024,crossland edition mt6,opel,https://www.autocosmos.cl/catalogo/vigente/opel/crossland,12t,nan,nan,https://www.autocosmos.cl/catalogo/2024/opel/crossland/12l-edition/177815
+OPEL,SUV,GRANDLAND GRANDLAND GS AT8,1.2T,,,2024,grandland grandland gs at8,opel,https://www.autocosmos.cl/catalogo/vigente/opel/grandland,12t,nan,nan,https://www.autocosmos.cl/catalogo/2024/opel/grandland/12l-gs/177823
+OPEL,SUV,GRANDLAND GRANDLAND GS MT6,1.2T,,,2024,grandland grandland gs mt6,opel,https://www.autocosmos.cl/catalogo/vigente/opel/grandland,12t,nan,nan,https://www.autocosmos.cl/catalogo/2024/opel/grandland/12l-gs/177823
+OPEL,SUV,GRANDLAND GRANDLAND GS 1.5TD AT8,,,,2024,grandland grandland gs 15td at8,opel,https://www.autocosmos.cl/catalogo/vigente/opel/grandland,nan,nan,nan,https://www.autocosmos.cl/catalogo/2024/opel/grandland/15-td-aut/177825
+OPEL,SUV,GRANDLAND GRANDLAND ULTIMATE AT8,1.2T,,,2024,grandland grandland ultimate at8,opel,https://www.autocosmos.cl/catalogo/vigente/opel/grandland,12t,nan,nan,https://www.autocosmos.cl/catalogo/2024/opel/grandland/12l-ultimate-aut/177826
+OPEL,SUV,MOKKA ELEGANCE 130HP MT6 E6.4,1.2,,,2024,mokka elegance 130hp mt6 e64,opel,https://www.autocosmos.cl/catalogo/vigente/opel/mokka,12,nan,nan,https://www.autocosmos.cl/catalogo/2024/opel/mokka/12l-elegance/177819
+OPEL,SUV,MOKKA ELEGANCE 130HP AT8,1.2T,,,2024,mokka elegance 130hp at8,opel,https://www.autocosmos.cl/catalogo/vigente/opel/mokka,12t,nan,nan,https://www.autocosmos.cl/catalogo/2024/opel/mokka/12l-elegance-aut/177821
+OPEL,SUV,MOKKA GS LINE 130HP AT8,1.2T,,,2024,mokka gs line 130hp at8,opel,https://www.autocosmos.cl/catalogo/vigente/opel/mokka,12t,nan,nan,https://www.autocosmos.cl/catalogo/2024/opel/mokka/12l-gs-line-aut/177822
+OPEL,SUV,MOKKA 1.5TD ELEGANCE 110HP MT6,,,,2024,mokka 15td elegance 110hp mt6,opel,https://www.autocosmos.cl/catalogo/vigente/opel/mokka,nan,nan,nan,https://www.autocosmos.cl/catalogo/2024/opel/mokka/15t-elegance/177820
+PEUGEOT,SUV,ACTIVE PACK PURETECH 130HP,1.2,,,2024,active pack puretech 130hp,peugeot,,12,nan,nan,
+PEUGEOT,SUV,ALTURE PACK PURETECH 130HP,1.2,,,2024,alture pack puretech 130hp,peugeot,,12,nan,nan,
+PEUGEOT,SUV,ALTURE PACK BLUEHDI 130HP,1.5,,EAT8,2024,alture pack bluehdi 130hp,peugeot,,15,nan,eat8,
+PEUGEOT,SUV,ELÉCTRICO 136HP,,,,2024,electrico 136hp,peugeot,,nan,nan,nan,
+PEUGEOT,SUV,ALTURE BLUEHDI 130HP,1.5,,EAT8,2024,alture bluehdi 130hp,peugeot,,15,nan,eat8,
+PEUGEOT,SUV,ALTURE PACK THP 1650HP,1.6,,EAT6,2024,alture pack thp 1650hp,peugeot,,16,nan,eat6,
+PEUGEOT,SUV,GT BLUEHDI 130HP,1.5,,EAT8,2024,gt bluehdi 130hp,peugeot,,15,nan,eat8,
+PEUGEOT,SUV,GT PURETECH 180HP,1.6,,EAT8,2024,gt puretech 180hp,peugeot,,16,nan,eat8,
+PEUGEOT,SUV,HYBRID4 300 EEAT8,,,,2024,hybrid4 300 eeat8,peugeot,https://www.autocosmos.cl/catalogo/vigente/peugeot/3008-hybrid4,nan,nan,nan,https://www.autocosmos.cl/catalogo/2024/peugeot/3008-hybrid4/300-gt/177856
+PEUGEOT,SUV,ALTURETHP 165HP,1.6,,EAT6,2024,alturethp 165hp,peugeot,,16,nan,eat6,
+PEUGEOT,SUV,GT BLACK PACK BLUEHDI 130,,,EAT8,2024,gt black pack bluehdi 130,peugeot,,nan,nan,eat8,
+PEUGEOT,SUV,GT BLACK PACK PURETECH 180,,,EAT8,2024,gt black pack puretech 180,peugeot,,nan,nan,eat8,
+PEUGEOT,SUV,RIFTER ALURE BLUEHDI 100,,,MT,2024,rifter alure bluehdi 100,peugeot,https://www.autocosmos.cl/catalogo/vigente/peugeot/rifter,nan,nan,mt,https://www.autocosmos.cl/catalogo/2024/peugeot/rifter/16l-allure-bluehdi-100hp/177834
+PEUGEOT,SUV,RIFTER ALURE BLUEHDI 130,,,AT,2024,rifter alure bluehdi 130,peugeot,https://www.autocosmos.cl/catalogo/vigente/peugeot/rifter,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/peugeot/rifter/16l-allure-bluehdi-100hp/177834
+PEUGEOT,SUV,RIFTER ALURE PURETECH 130,,,AT,2024,rifter alure puretech 130,peugeot,https://www.autocosmos.cl/catalogo/vigente/peugeot/rifter,nan,nan,at,https://www.autocosmos.cl/catalogo/2024/peugeot/rifter/12l-puretech-130hp-aut/177850
+SSANGYONG,SUV,KORANDO GLX 6AB,1.5T,2WD,AT,2024,korando glx 6ab,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/korando,15t,2wd,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/korando/15t-glx-aut/178042
+SSANGYONG,SUV,KORANDO GLX 6AB,1.5T,2WD,MT,2024,korando glx 6ab,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/korando,15t,2wd,mt,https://www.autocosmos.cl/catalogo/2024/ssangyong/korando/15t-glx-aut/178042
+SSANGYONG,SUV,KORANDO GLX 1.6TD 6AB,,2WD,AT,2024,korando glx 16td 6ab,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/korando,nan,2wd,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/korando/16td-glx-aut/178044
+SSANGYONG,SUV,KORANDO GLX 1.6TD 6AB,,2WD,MT,2024,korando glx 16td 6ab,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/korando,nan,2wd,mt,https://www.autocosmos.cl/catalogo/2024/ssangyong/korando/16td-glx-aut/178044
+SSANGYONG,SUV,KORANDO LIMITED 6AB,1.5T,2WD,AT,2024,korando limited 6ab,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/korando,15t,2wd,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/korando/15t-limited-aut/178040
+SSANGYONG,SUV,KORANDO LX,1.5T,2WD,MT,2024,korando lx,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/korando,15t,2wd,mt,https://www.autocosmos.cl/catalogo/2024/ssangyong/korando/15t-lx/178039
+SSANGYONG,SUV,REXTON GLX 2.2TD 6AB,,2WD,AT,2024,rexton glx 22td 6ab,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/rexton,nan,2wd,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/rexton/22td-glx-aut/178035
+SSANGYONG,SUV,REXTON GLX 2.2TD 6AB,,2WD,MT,2024,rexton glx 22td 6ab,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/rexton,nan,2wd,mt,https://www.autocosmos.cl/catalogo/2024/ssangyong/rexton/22td-glx-aut/178035
+SSANGYONG,SUV,REXTON GLX 2.2TD 6AB,,4WD,AT,2024,rexton glx 22td 6ab,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/rexton,nan,4wd,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/rexton/22td-glx-aut/178035
+SSANGYONG,SUV,REXTON LX 6AB,2.0T,4WD,AT,2024,rexton lx 6ab,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/rexton,20t,4wd,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/rexton/20t-lx/178047
+SSANGYONG,SUV,REXTON LX 6AB,2.0T,2WD,MT,2024,rexton lx 6ab,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/rexton,20t,2wd,mt,https://www.autocosmos.cl/catalogo/2024/ssangyong/rexton/20t-lx/178047
+SSANGYONG,SUV,REXTON LX 2.2TD 2AB,,2WD,AT,2024,rexton lx 22td 2ab,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/rexton,nan,2wd,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/rexton/22td-lx-aut/178050
+SSANGYONG,SUV,REXTON LX 2.2TD 2AB,,2WD,MT,2024,rexton lx 22td 2ab,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/rexton,nan,2wd,mt,https://www.autocosmos.cl/catalogo/2024/ssangyong/rexton/22td-lx-aut/178050
+SSANGYONG,SUV,TIVOLI GLX,1.6,2WD,MT,2024,tivoli glx,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/tivoli,16,2wd,mt,https://www.autocosmos.cl/catalogo/2024/ssangyong/tivoli/16-glx/178046
+SSANGYONG,SUV,TIVOLI LIMITED 6 AB,1.6,2WD,AT,2024,tivoli limited 6 ab,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/tivoli,16,2wd,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/tivoli/16-limited-aut/178045
+SSANGYONG,SUV,TIVOLI LX,1.6,2WD,MT,2024,tivoli lx,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/tivoli,16,2wd,mt,https://www.autocosmos.cl/catalogo/2024/ssangyong/tivoli/16-lx/178027
+SSANGYONG,SUV,TORRES GLX,1.5T,2WD,AT,2024,torres glx,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/torres,15t,2wd,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/torres/15l-glx/178053
+SSANGYONG,SUV,TORRES GLX,1.5T,2WD,MT,2024,torres glx,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/torres,15t,2wd,mt,https://www.autocosmos.cl/catalogo/2024/ssangyong/torres/15l-glx/178053
+SSANGYONG,SUV,TORRES GLX,1.5T,4WD,AT,2024,torres glx,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/torres,15t,4wd,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/torres/15l-glx/178053
+SSANGYONG,SUV,TORRES LIMITED PLUS BITONO,1.5T,4WD,AT,2024,torres limited plus bitono,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/torres,15t,4wd,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/torres/15l-limited-plus-bitono-aut-4x4/178057
+SSANGYONG,SUV,TORRES LIMITED PLUS SUNROOF,1.5T,4WD,AT,2024,torres limited plus sunroof,ssangyong,https://www.autocosmos.cl/catalogo/vigente/ssangyong/torres,15t,4wd,at,https://www.autocosmos.cl/catalogo/2024/ssangyong/torres/15l-limited-plus-aut-4x4/178056
+SUBARU,SUV,CROSSTREK 2.0I,,AWD,AT,2024,crosstrek 20i,subaru,https://www.autocosmos.cl/catalogo/vigente/subaru/crosstrek,nan,awd,at,https://www.autocosmos.cl/catalogo/2024/subaru/crosstrek/20i-4x4-cvt/178083
+SUBARU,SUV,CROSSTREK 2.0I DYNAMIC EYESIGH,,AWD,AT,2024,crosstrek 20i dynamic eyesigh,subaru,https://www.autocosmos.cl/catalogo/vigente/subaru/crosstrek,nan,awd,at,https://www.autocosmos.cl/catalogo/2024/subaru/crosstrek/20i-4x4-cvt-dynamic-es/178085
+SUBARU,SUV,CROSSTREK 2.0I TOURING EYESIGH,,AWD,AT,2024,crosstrek 20i touring eyesigh,subaru,https://www.autocosmos.cl/catalogo/vigente/subaru/crosstrek,nan,awd,at,https://www.autocosmos.cl/catalogo/2024/subaru/crosstrek/20i-4x4-cvt-touring-es-hk/178087
+TOYOTA,SUV,4RUNNER LIMITED,,4X4,AT,2024,4runner limited,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/4runner,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/toyota/4runner/40l-4x4-limited/178170
+TOYOTA,SUV,4RUNNER SR5,,4X2,AT,2024,4runner sr5,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/4runner,nan,4x2,at,https://www.autocosmos.cl/catalogo/2024/toyota/4runner/40l-4x2-sr5/178137
+TOYOTA,SUV,4RUNNER SR5,,4X4,AT,2024,4runner sr5,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/4runner,nan,4x4,at,https://www.autocosmos.cl/catalogo/2024/toyota/4runner/40l-4x4-sr5/178138
+TOYOTA,SUV,COROLLA CROSS HEV SEG HEV,1.8,,AT,2024,corolla cross hev seg hev,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/corolla,18,nan,at,https://www.autocosmos.cl/catalogo/2024/toyota/corolla/20l-xei/178140
+TOYOTA,SUV,COROLLA CROSS HEV XEI HEV,1.8,,AT,2024,corolla cross hev xei hev,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/corolla,18,nan,at,https://www.autocosmos.cl/catalogo/2024/toyota/corolla/20l-xei/178140
+TOYOTA,SUV,FORTUNER SR5,2.7L,4X2,AT,2024,fortuner sr5,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/fortuner,27l,4x2,at,https://www.autocosmos.cl/catalogo/2024/toyota/fortuner/27l-sr5-4x2/178162
+TOYOTA,SUV,FORTUNER SR5 TDI,2.8,4X4,AT,2024,fortuner sr5 tdi,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/fortuner,28,4x4,at,https://www.autocosmos.cl/catalogo/2024/toyota/fortuner/28l-sr5-tdi-4x4/178164
+TOYOTA,SUV,FORTUNER SR5 TDI,2.8,4X4,MT,2024,fortuner sr5 tdi,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/fortuner,28,4x4,mt,https://www.autocosmos.cl/catalogo/2024/toyota/fortuner/28l-sr5-tdi-4x4/178164
+TOYOTA,SUV,FORTUNER SRX TDI,2.8,4X4,AT,2024,fortuner srx tdi,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/fortuner,28,4x4,at,https://www.autocosmos.cl/catalogo/2024/toyota/fortuner/28l-sr5-tdi-4x4/178164
+TOYOTA,SUV,RAIZE GAS E,1.2,,MT,2024,raize gas e,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/raize,12,nan,mt,https://www.autocosmos.cl/catalogo/2024/toyota/raize/12l-i/178174
+TOYOTA,SUV,RAIZE GAS,1.2,,MT,2024,raize gas,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/raize,12,nan,mt,https://www.autocosmos.cl/catalogo/2024/toyota/raize/12l-e-aut/178176
+TOYOTA,SUV,RAV4 LE,2.0,4X2,AT,2024,rav4 le,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/rav4,20,4x2,at,https://www.autocosmos.cl/catalogo/2024/toyota/rav4/20l-le/178155
+TOYOTA,SUV,RAV4 LE,2.0,4X2,MT,2024,rav4 le,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/rav4,20,4x2,mt,https://www.autocosmos.cl/catalogo/2024/toyota/rav4/20l-le/178155
+TOYOTA,SUV,RAV4 LE,2.0,4X4,MT,2024,rav4 le,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/rav4,20,4x4,mt,https://www.autocosmos.cl/catalogo/2024/toyota/rav4/20l-le-4x4/178156
+TOYOTA,SUV,RAV4 LIMITED HV,2.5,4X4,AT,2024,rav4 limited hv,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/rav4,25,4x4,at,https://www.autocosmos.cl/catalogo/2024/toyota/rav4/20l-le-4x4/178156
+TOYOTA,SUV,RAV4 XLE,2.0,4X2,AT,2024,rav4 xle,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/rav4,20,4x2,at,https://www.autocosmos.cl/catalogo/2024/toyota/rav4/20l-xle-aut/178180
+TOYOTA,SUV,RAV4 XLE HV,2.5,4X2,AT,2024,rav4 xle hv,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/rav4,25,4x2,at,https://www.autocosmos.cl/catalogo/2024/toyota/rav4/20l-xle-aut/178180
+TOYOTA,SUV,RAV4 XSE HV,2.5,4X2,AT,2024,rav4 xse hv,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/rav4,25,4x2,at,https://www.autocosmos.cl/catalogo/2024/toyota/rav4/20l-xle-aut/178180
+TOYOTA,SUV,YARIS CROSS XI,1.5,,AT,2024,yaris cross xi,toyota,https://www.autocosmos.cl/catalogo/vigente/toyota/yaris,15,nan,at,https://www.autocosmos.cl/catalogo/2024/toyota/yaris/15l-i/178184
