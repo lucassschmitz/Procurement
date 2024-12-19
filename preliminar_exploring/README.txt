@@ -1,0 +1,1 @@
+- Daniela_explore is code by Daniela just to understand the variables. Does not create anything new. It is not very useful. Has no plots or any informative things. 
