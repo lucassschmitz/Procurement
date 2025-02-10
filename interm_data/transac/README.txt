@@ -1,0 +1,1 @@
+In transacciones there are the purchases done through the FAs, they are not organized by year but by the FA to which they belong
