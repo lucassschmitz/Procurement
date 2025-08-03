@@ -6,3 +6,5 @@ searches  for codes of FAs in the files of OrdenesCompra
 
 -search_CM_codes_in CM files 
 
+- preliminary analysis licitaciones 
+Takes one of the raw_data/Licitaciones files (for one month) and does some plots.  

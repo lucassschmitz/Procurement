@@ -120,9 +120,7 @@ standardize_region <- function(x) {
    
 
 #### prepare data for storing  
-    df$Precio_un <- df$`Monto Total OC` / df$`Cantidad` #the price per unit including taxes and potentially delivery costs 
 
-    print(summary(df$Precio_un))
 
     df <- df %>%mutate(Fecha_Envio_OC = ymd(`Fecha Envío OC`), year = year(Fecha_Envio_OC),  
             month = month(Fecha_Envio_OC))
@@ -130,7 +128,7 @@ standardize_region <- function(x) {
 
     df <- df %>% select(`Rut Proveedor`, `Nombre Empresa`, `Nro Licitación Pública`, `CodigoOC`, `Proviene de Gran Compra`, `IDProductoCM`, 
         `Producto`, `Tipo de Producto`, `Marca`, `Modelo`, `Cantidad`, `Rut Unidad de Compra`, `Unidad de Compra`,  `Fecha Envío OC`,
-        `Región Unidad de Compra`, `Institución`,`Sector`, `year`, `month`,`Precio_un`) 
+        `Región Unidad de Compra`, `Institución`,`Sector`, `year`, `month`) 
 
     missing_counts <- colSums(is.na(df))
     aux <- missing_counts[missing_counts > 2]
@@ -208,18 +206,7 @@ print(summary_stats)
 ############ 
 
 
-merged_df %>%
-  summarise(
-    mean_precio = mean(Precio_un, na.rm = TRUE),
-    median_precio = median(Precio_un, na.rm = TRUE),
-    sd_precio = sd(Precio_un, na.rm = TRUE),
-    min_precio = min(Precio_un, na.rm = TRUE),
-    max_precio = max(Precio_un, na.rm = TRUE),
-    count = n()
-  )
-
-
-  333 270 063
+ 
 
 merged_df <- merged_df %>% 
   mutate(semester = year * 10L + if_else(month <= 6L, 1L, 2L)) # create semester variable
@@ -289,7 +276,7 @@ summary(logit_model)
 
 % consider which variables to include in the logit 
 
-########################################
+######################Useful commands ##################
 # tab 
 aux2 <- table(merged_df$semester, merged_df$`market`)
 print(aux2)
