@@ -1,0 +1,13 @@
+1. In the submitted document (p. 5) we have 4282 orders, whereas in our data now we have only 32-- even thought we added some observations from the 2013 FA. see the reason and fix this. 
+
+
+Also, about the economies of scale,  I was thinking that there could be some rational for the central government to introduce FA if it is a benevolent planner.  principal(central gov)-agent(local agency) problem. If costs are decreasing the local agency does not internalize the decrease in costs that generates for the other local agencies, and the principal by restricting the assortment increases the quantity (lowers costs) of the chosen products, thereby increasing the sum of the local agencies welfare.
+
+
+----- 
+1. estimate a logit demand with the data. 
+
+2. what evidence could we show that reveals something about the competition-variety trade-off? 
+
+
+at night check that the second approach delivers similar results using temp.

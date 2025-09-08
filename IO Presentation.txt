@@ -1,0 +1,24 @@
+Goal 
+- present a logit with the demand estimation of product characteristics. 
+-prove that the effect of number of selected firms in the first stage on second stage competition is ambiguous. 
+
+Still to include 
+- how many auctions do we have? 
+- model of an auction, include mine or mareks? my impression is that marek's is more the ideal assortment and mine is the estimated one. 
+
+
+- include a slide of things that are not in the model (e.g. risk, imperfect information, agency problems, etc.) 
+- include a slide with possible research questions: 1. optimal number of firms to select, 2. include product characteristics. and a slide illustrating the inconsistency of not including product characteristics in the auction stage (i.e. show A, B which are very similar and then  C that has other product attributes, and show that even if A,B are slightly cheaper than C, when including two products we should include C). 
+
+
+
+ what are the assumptions we made 
+1. no agency problems 
+2. 
+
+The procurement topic is great and appears quite feasible, which is even better. For the longer presentation, we'd suggest you try to develop a toy model of the auction that you could use to highlight tradeoffs that one might see in the data and make progress towards where you are planning to go. It'd also be nice if you showed us a bit more of the data - e.g., more detailed versions of the price distributions etc.
+
+Long-term 
+1. there is the problem that each year the whole catalog changes and firms put their new products with potentially different list prices. Is this a problem? one thing to do is to see whether the new cars in the catalog increase the price a lot. 
+
+2. 
