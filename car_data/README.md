@@ -22,10 +22,8 @@ This folder builds a clean dataset of **car model characteristics** (specs, equi
 "Maestra" with all the cars of each FA. 
 
 ### Outputs
-- `csvs/unique_marca_modelo_by_tipo_producto.csv`  
-  Unique combinations of **marca**, **modelo**, **tipo producto**.
 - `csvs/unique_marca_modelo_by_tipo_producto_ids.csv`  
-  Same as above **but includes IDs** (e.g., `numero licitacion`, `id producto`) for each record.
+  Unique combinations of **marca**, **modelo**, **tipo producto**. Also includes IDs (e.g., `numero licitacion`, `id producto`) for each record.
 - `csvs/parsed_output_ids.csv`  
   original columns (excl. `modelo`) + parsed fields + ID columns (e.g., `numero licitacion`, `id producto`).
 
