@@ -138,7 +138,8 @@ use "$data_int/transacciones_all.dta", replace
 
 	// select only cars/small vehicles 
 	tab nombreproductoonu
-	drop if strmatch(nombreproductoonu, "*camio*") | strmatch(nombreproductoonu, "*excava*")  | strmatch(nombreproductoonu, "*nivel*")  
+	drop if strmatch(nombreproductoonu, "*camiones de*") | strmatch(nombreproductoonu, "*excava*")  | strmatch(nombreproductoonu, "*nivel*") 
+	
 	tab nombreproductoonu
 	keep if strmatch(nombreproductoonu, "*culos*")  | strmatch(nombreproductoonu, "*autom*")
 	drop if strmatch(nombreproductoonu, "*pol*" )
